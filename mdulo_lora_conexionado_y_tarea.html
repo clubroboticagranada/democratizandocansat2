@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="es">
+<head>
+<link rel="stylesheet" type="text/css" href="base.css" />
+<link rel="stylesheet" type="text/css" href="content.css" />
+<link rel="stylesheet" type="text/css" href="nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Módulo LoRa. Conexionado y tarea | Democratizando CANSAT II. El Retorno </title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="author" content="Pedro Ruiz Fernández" />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<meta name="generator" content="eXeLearning 2.8.1 - exelearning.net" />
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="exe_jquery.js"></script>
+<script type="text/javascript" src="common_i18n.js"></script>
+<script type="text/javascript" src="common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="exe-web-site exe-auto-math" id="exe-node-44"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<header id="header" ><div id="headerContent">Democratizando CANSAT II. El Retorno</div></header>
+<nav id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II</a></li>
+   <li class="current-page-parent"><a href="sistemas_de_control.html" class="current-page-parent daddy">Sistemas de control</a>
+   <ul>
+      <li class="current-page-parent"><a href="elementos_de_sistema_cansat.html" class="current-page-parent daddy">Elementos de sistema cansat</a>
+      <ul>
+         <li><a href="software_arduinoblocks.html" class="no-ch">Software. Arduinoblocks</a></li>
+         <li><a href="elemento_de_control_esp_32_steamakers.html" class="no-ch">Elemento de control. ESP 32 SteaMakers</a></li>
+         <li><a href="pantalla_oled_conexionado_y_tarea.html" class="no-ch">Pantalla OLED. Conexionado y tarea</a></li>
+         <li><a href="bmp280_conexionado_y_tarea.html" class="no-ch">BMP280. Conexionado y tarea</a></li>
+         <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
+         <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
+         <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
+         <li id="active"><a href="mdulo_lora_conexionado_y_tarea.html" class="active no-ch">Módulo LoRa. Conexionado y tarea</a></li>
+      </ul>
+      </li>
+      <li><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="daddy">Primera Comunicación LoRa. Tratamiento de datos</a>
+      <ul class="other-section">
+         <li><a href="emisor.html" class="no-ch">Emisor</a></li>
+         <li><a href="receptor.html" class="no-ch">Receptor</a></li>
+      </ul>
+      </li>
+      <li><a href="reto_final_ahora_s_cansat.html" class="no-ch">Reto Final. Ahora sí CANSAT</a></li>
+      <li><a href="consumo.html" class="no-ch">Consumo</a></li>
+      <li><a href="comunicaciones_lora_con_codificacin_json.html" class="no-ch">Comunicaciones LoRa con codificación JSON</a></li>
+   </ul>
+   </li>
+   <li><a href="estructura_3d.html" class="no-ch">Estructura 3D</a></li>
+   <li><a href="paracaidas.html" class="daddy">Paracaidas</a>
+   <ul class="other-section">
+      <li><a href="calculo_radio.html" class="no-ch">Calculo Radio</a></li>
+      <li><a href="trazado_de_gores_piezas.html" class="no-ch">Trazado de gores (piezas)</a></li>
+   </ul>
+   </li>
+   <li><a href="fuentes.html" class="no-ch">Fuentes</a></li>
+   <li><a href="autora.html" class="no-ch">Autoría</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="gps_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<div id="main-wrapper">
+<section id="main">
+<header id="nodeDecoration"><h1 id="nodeTitle">Módulo LoRa. Conexionado y tarea</h1></header>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id206">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Módulo Lora - LoRaWan. Comunicaciones LoRa</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta206_198_2" class="block iDevice_content">
+<div class="exe-text"><p><span style="color: #ff0000;">A MODIFICAR CON AMPLIACIÓN DE BLOQUES DE CONFIGURACIÓN AVANZADA DE LORA</span></p>
+<p>Los módulos LoRa pueden enviar y recibir señales LoRa (LongRange). LoRa es una tecnología de comunicación patentada, que está pensada para comunicaciones con un bajo consumo de energía, largo alcance y buena inmunidad frente al ruido, lo que la hace ideal para aplicaciones IoT.</p>
+<p>De nuestro dispositivo LoRa podemos configurar tres parámetros con arduinoblocks:</p>
+<ul>
+<li>Frecuencia (MHz): las frecuencias de funcionamiento varían dependiendo del país y suelen ser las bandas 433 MHz, 868 MHz y 915 MHz. En nuestro caso 868 MHz.</li>
+<li>Spreading Factor SF: Valor entero entre 7 y 12, que representa el parámetro de propagación de las señales LoRa (chirps), que define cuántas señales (chirps) se envían por segundo. Para que se <img src="lora_sf.jpg" alt="sf" title="sf" width="601" height="290" style="float: right; margin: 4px;" />pueda producir la comunicación entre emisor y receptor deben de tener el mismo SF. A menos SF más velocidad de transmisión de datos y menos alcance, a más SF menos velocidad de transmisión de datos y más alcance. El alcance también depende en gran medida del entorno y las posibles construcciones u obstáculos que se encuentren a su paso.</li>
+<li>
+<p> Palabra de encriptación de 16 caracteres: se puede usar o no, sirve para proteger nuestros datos enviados a través de un proceso de encriptación. Para que se pueda producir la comunicación entre emisor y receptor deben de tener la misma palabra de encriptación.</p>
+</li>
+</ul>
+<p><img src="aclaracion_bloque_lora.png" alt="bloque lora" title="bloque lora" width="600" height="313" /></p>
+<p></p>
+<p></p>
+<p></p>
+<p><img src="modulo-lora-lorawan.jpg" alt="LoRa" title="LoRa" width="300" height="300" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id207">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Conexionado</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta207_199_2" class="block iDevice_content">
+<div class="exe-text"><p>El módulo LoRa se pincha directamente en la placa ESP32 STEAMakers entre el pin superior de 5V y el pin digital 6 (D6 / IO27). Hay que hacer coincidir el pin hembra de 5V de la placa con el pin VCC del módulo LoRa, tal como se muestra en el esquema de conexionado. La conexión de este módulo es de tipo SPI (utiliza el puerto SPI de la placa).</p>
+<p><img src="esp32_lora_bb.png" alt="esp32 lora" title="esp32 lora" width="500" height="678" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper pblIdevice em_iDevice em_iDevice_activity" id="id208">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea. Conexionado para primera comunicación LoRa</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta208_200_2" class="block iDevice_content">
+<div class="pbl-task-description"><p>Conecta la pantalla oled, el sensor BMP280 y el módulo LoRa a la placa emisora de forma correcta. Conecta el módulo LoRa a la placa receptora de forma correcta. Este conexionado te servirá para la próxima práctica de comunicaciones entre placas.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p>Conexionado emisor:</p>
+<p><img src="esp32_oled_bmp280_lora_bb.png" alt="esp32 oled bmp280" title="esp32 oled bmp280" width="500" height="693" /></p>
+<p>Conexionado receptor:</p>
+<p><img src="esp32_lora_bb.png" alt="esp32 lora" title="esp32 lora" width="500" height="677" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<div id="packageLicense" class="cc cc-by-sa">
+<p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="gps_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<footer id="siteFooter">Pedro Ruiz Fernández</footer></div>
+<p id="made-with-eXe"><a href="https://exelearning.net/" target="_blank" rel="noopener"><span>Creado con eXeLearning<span> (Ventana nueva)</span></span></a></p><script type="text/javascript" src="_style_js.js"></script></body></html>
