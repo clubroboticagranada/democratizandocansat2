@@ -25,7 +25,7 @@
    <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II</a></li>
    <li class="current-page-parent"><a href="sistemas_de_control.html" class="current-page-parent daddy">Sistemas de control</a>
    <ul>
-      <li><a href="elementos_de_sistema_cansat.html" class="daddy">Elementos de sistema cansat</a>
+      <li><a href="elementos_de_sistema_cansat.html" class="daddy">Elementos de sistema CANSAT</a>
       <ul class="other-section">
          <li><a href="software_arduinoblocks.html" class="no-ch">Software. Arduinoblocks</a></li>
          <li><a href="elemento_de_control_esp_32_steamakers.html" class="no-ch">Elemento de control. ESP 32 SteaMakers</a></li>
@@ -34,7 +34,11 @@
          <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
          <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
          <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
-         <li><a href="mdulo_lora_conexionado_y_tarea.html" class="no-ch">Módulo LoRa. Conexionado y tarea</a></li>
+         <li><a href="mdulo_lora_conexionado_y_tarea.html" class="daddy">Módulo LoRa. Conexionado y tarea</a>
+         <ul class="other-section">
+            <li><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="no-ch">Saber más sobre comunicaciones LoRa P2P</a></li>
+         </ul>
+         </li>
       </ul>
       </li>
       <li><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="daddy">Primera Comunicación LoRa. Tratamiento de datos</a>
@@ -89,7 +93,7 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta67_216_2" class="block iDevice_content">
-<div class="pbl-task-description"><p>Se trata de a través de un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS, recoger datos de: tiempo, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z, presentarlos en la pantalla del emisor y transmitirlos al receptor compuesto por ESP32 STEAMakers con modulo LoRa. La frecuencia con la que realiza estas operaciones es de cada segundo.</p>
+<div class="pbl-task-description"><p>Se trata de a través de un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger datos de: tiempo, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z, presentarlos en la pantalla del emisor y transmitirlos al receptor compuesto por ESP32 STEAMakers con modulo LoRa. La frecuencia con la que realiza estas operaciones es de cada segundo.</p>
 <p>El receptor estará conectado al PC por USB realizando una comunicación serie, mostrándose y graficándose en tiempo real en el PC los datos recibidos.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p><a href="http://www.arduinoblocks.com/web/project/1443311" target="_blank" rel="noopener">Código</a> emisor:</p>
 <p><img src="ab_emisor_lora_completo_potencia.png" alt="cansat emisor completo" title="cansat emisor completo" width="900" height="478" /></p>
 <p><a href="http://www.arduinoblocks.com/web/project/1442613" target="_blank" rel="noopener">Código</a> receptor:</p>

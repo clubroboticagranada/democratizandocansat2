@@ -25,7 +25,7 @@
    <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II</a></li>
    <li class="current-page-parent"><a href="sistemas_de_control.html" class="current-page-parent daddy">Sistemas de control</a>
    <ul>
-      <li class="current-page-parent"><a href="elementos_de_sistema_cansat.html" class="current-page-parent daddy">Elementos de sistema cansat</a>
+      <li class="current-page-parent"><a href="elementos_de_sistema_cansat.html" class="current-page-parent daddy">Elementos de sistema CANSAT</a>
       <ul>
          <li><a href="software_arduinoblocks.html" class="no-ch">Software. Arduinoblocks</a></li>
          <li><a href="elemento_de_control_esp_32_steamakers.html" class="no-ch">Elemento de control. ESP 32 SteaMakers</a></li>
@@ -34,7 +34,11 @@
          <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
          <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
          <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
-         <li id="active"><a href="mdulo_lora_conexionado_y_tarea.html" class="active no-ch">Módulo LoRa. Conexionado y tarea</a></li>
+         <li id="active"><a href="mdulo_lora_conexionado_y_tarea.html" class="active daddy">Módulo LoRa. Conexionado y tarea</a>
+         <ul>
+            <li><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="no-ch">Saber más sobre comunicaciones LoRa P2P</a></li>
+         </ul>
+         </li>
       </ul>
       </li>
       <li><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="daddy">Primera Comunicación LoRa. Tratamiento de datos</a>
@@ -61,7 +65,7 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="gps_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="gps_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
@@ -73,21 +77,16 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta206_198_2" class="block iDevice_content">
-<div class="exe-text"><p><span style="color: #ff0000;">A MODIFICAR CON AMPLIACIÓN DE BLOQUES DE CONFIGURACIÓN AVANZADA DE LORA</span></p>
-<p>Los módulos LoRa pueden enviar y recibir señales LoRa (LongRange). LoRa es una tecnología de comunicación patentada, que está pensada para comunicaciones con un bajo consumo de energía, largo alcance y buena inmunidad frente al ruido, lo que la hace ideal para aplicaciones IoT.</p>
-<p>De nuestro dispositivo LoRa podemos configurar tres parámetros con arduinoblocks:</p>
+<div class="exe-text"><p>Los módulos LoRa pueden enviar y recibir señales LoRa (LongRange). LoRa es una tecnología de comunicación patentada, que está pensada para comunicaciones con un bajo consumo de energía, largo alcance y buena inmunidad frente al ruido, lo que la hace ideal para aplicaciones IoT.</p>
+<p><img src="modulo-lora-lorawan.jpg" alt="lora a" title="lora a" width="300" height="300" /></p>
+<p>Para que inicializar el dispositvo LoRa en arduinoblocks debemos utilizar el siguiente bloque en la esctructura "Inicializar" de nuestro programa". En este bloque podemos configurar dos parámetros:</p>
+<p><img src="aclaracion_bloque_lora.png" alt="bloque lora init" title="bloque lora init" width="599" height="342" style="float: right; margin-right: 4px; margin-left: 4px;" /></p>
 <ul>
 <li>Frecuencia (MHz): las frecuencias de funcionamiento varían dependiendo del país y suelen ser las bandas 433 MHz, 868 MHz y 915 MHz. En nuestro caso 868 MHz.</li>
-<li>Spreading Factor SF: Valor entero entre 7 y 12, que representa el parámetro de propagación de las señales LoRa (chirps), que define cuántas señales (chirps) se envían por segundo. Para que se <img src="lora_sf.jpg" alt="sf" title="sf" width="601" height="290" style="float: right; margin: 4px;" />pueda producir la comunicación entre emisor y receptor deben de tener el mismo SF. A menos SF más velocidad de transmisión de datos y menos alcance, a más SF menos velocidad de transmisión de datos y más alcance. El alcance también depende en gran medida del entorno y las posibles construcciones u obstáculos que se encuentren a su paso.</li>
-<li>
-<p> Palabra de encriptación de 16 caracteres: se puede usar o no, sirve para proteger nuestros datos enviados a través de un proceso de encriptación. Para que se pueda producir la comunicación entre emisor y receptor deben de tener la misma palabra de encriptación.</p>
-</li>
+<li> Palabra de encriptación de 16 caracteres: se puede usar o no, sirve para proteger nuestros datos enviados a través de un proceso de encriptación. Para que se pueda producir la comunicación entre emisor y receptor deben de tener la misma palabra de encriptación.</li>
+<li>Con respecto a la configuración de pines de conexionado, no hay que tocar los que vienen por defecto, si lo conectamos como indicamos en el siguiente apartado (conexión directa a pines hembra de placa).</li>
 </ul>
-<p><img src="aclaracion_bloque_lora.png" alt="bloque lora" title="bloque lora" width="600" height="313" /></p>
-<p></p>
-<p></p>
-<p></p>
-<p><img src="modulo-lora-lorawan.jpg" alt="LoRa" title="LoRa" width="300" height="300" /></p></div>
+<p></p></div>
 </div>
 </div>
 </div>
@@ -128,7 +127,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="gps_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="gps_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <footer id="siteFooter">Pedro Ruiz Fernández</footer></div>
