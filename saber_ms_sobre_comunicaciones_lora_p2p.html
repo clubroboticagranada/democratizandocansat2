@@ -34,7 +34,7 @@
          <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
          <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
          <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
-         <li class="current-page-parent"><a href="mdulo_lora_conexionado_y_tarea.html" class="current-page-parent daddy">Módulo LoRa. Conexionado y tarea</a>
+         <li class="current-page-parent"><a href="mdulo_lora_rdenes_conexionado_y_tarea.html" class="current-page-parent daddy">Módulo LoRa. Órdenes, Conexionado y tarea</a>
          <ul>
             <li id="active"><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="active no-ch">Saber más sobre comunicaciones LoRa P2P</a></li>
          </ul>
@@ -65,7 +65,7 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="mdulo_lora_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="mdulo_lora_rdenes_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
@@ -83,7 +83,7 @@
 <ul>
 <li>Preámbulo (preamble), que está formado por un número de chirps variables y una palabra de sincronización (Sync Word). En recepción se comprueba si el preámbulo recibido coincide con el programado y si no coincide desecha el resto del mensaje.</li>
 <li>Cabecera, que puede ser explícita o implícita y en el caso de que sea explícita, contendrá información sobre el número de datos a enviar, la tasa de codificación de errores y la presencia de un código de verificación de errores.</li>
-<li>Carga útil, que es la información neta que se desea transmitir. En Lora el número máximo de es de 255 bytes.</li>
+<li>Carga útil, que es la información neta que se desea transmitir. En Lora el número máximo de es de 255 bytes (caracteres).</li>
 </ul></div>
 </div>
 </div>
@@ -96,18 +96,18 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta212_120_2" class="block iDevice_content">
-<div class="exe-text"><p><span style="color: #ff0000;">Comprobar valores por defecto de Lora (en código no viene), añadir Gain y ver que ha pasado con CRC.</span></p>
-<h4>Inicialización del módulo LoRa</h4>
+<div class="exe-text"><h4>Inicialización del módulo LoRa</h4>
 <p>Cuando inicializamos el módulo LoRa con el bloque de inicialización, para una frecuencia central determinada (en nuestro caso 868 MHz), nos fija una serie de parámetros por defecto, que son los siguientes:</p>
 <ul>
 <li>Frequency = 868 MHz</li>
-<li>TxPower =14</li>
+<li>TxPower =17</li>
 <li>SpreadingFactor= 7</li>
-<li>Bandwith= 125E3 (125kHz)</li>
+<li>Bandwith= 125000 Hz</li>
 <li>CodingRate= 5</li>
 <li>PreambleLength= 8</li>
-<li>SyncWord= 0x34</li>
-<li>EnableCRC= disable</li>
+<li>SyncWord= 0x12</li>
+<li>Gain = 0 (auto)</li>
+<li><span style="color: #ff0000;">EnableCRC= disable</span></li>
 </ul>
 <p>En el programa podemos modificar cualquiera de estos parámetros con los siguientes bloques de arduinoblocks relacionados con la modificación de nuestra transmisión LoRa:</p>
 <p><img src="bloques_lora_avanzados.png" alt="bloques lora avanzados" title="bloques lora avanzados" width="400" height="533" style="float: right; margin-right: 4px; margin-left: 4px;" /></p>
@@ -132,8 +132,8 @@
 <p>Son un numero de símbolos que se envían al principio de cada información enviada en LoRa, su valor por defecto son 8, pero se les puede dar un rango entre 6 y 65535 símbolos.</p>
 <h5>Sync word</h5>
 <p>Establece la palabra de sincronismo de la comunicación de radio LoRa. Es un byte en hexadecimal cuyo valor por defecto es 0x12, y puede tomar un rango de valores entre 0 y 0xFF.</p>
-<h5>CRC</h5>
-<p>La verificación por redundancia cíclica​ (CRC) es un código de detección de errores usado frecuentemente en redes digitales y en dispositivos de almacenamiento para detectar cambios accidentales en los datos. Comprueba aritméticamente que los datos recibidos concuerdan con los enviados. El CRC está por defecto deshabilitado y se puede habilitar o no.<code></code></p></div>
+<h5><span style="color: #ff0000;">CRC</span></h5>
+<p><span style="color: #ff0000;">La verificación por redundancia cíclica​ (CRC) es un código de detección de errores usado frecuentemente en redes digitales y en dispositivos de almacenamiento para detectar cambios accidentales en los datos. Comprueba aritméticamente que los datos recibidos concuerdan con los enviados. El CRC está por defecto deshabilitado y se puede habilitar o no.</span><code></code></p></div>
 </div>
 </div>
 </div>
@@ -155,7 +155,8 @@
 <li>Spreading Factor.</li>
 <li>Preamble Length.</li>
 <li>Sync Word.</li>
-<li>CRC lo tengan igual (activado o desactivado)</li>
+<li><span style="color: #ff0000;">CRC lo tengan igual (activado o desactivado)</span></li>
+<li>Si la información está encriptada, misma palabra de encriptación.</li>
 </ul>
 </li>
 </ul></div>
@@ -171,7 +172,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="mdulo_lora_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="mdulo_lora_rdenes_conexionado_y_tarea.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <footer id="siteFooter">Pedro Ruiz Fernández</footer></div>

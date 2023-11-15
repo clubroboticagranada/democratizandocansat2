@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>Módulo LoRa. Conexionado y tarea | Democratizando CANSAT II. El Retorno </title>
+<title>Módulo LoRa. Órdenes, Conexionado y tarea | Democratizando CANSAT II. El Retorno </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="Pedro Ruiz Fernández" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
@@ -34,7 +34,7 @@
          <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
          <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
          <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
-         <li id="active"><a href="mdulo_lora_conexionado_y_tarea.html" class="active daddy">Módulo LoRa. Conexionado y tarea</a>
+         <li id="active"><a href="mdulo_lora_rdenes_conexionado_y_tarea.html" class="active daddy">Módulo LoRa. Órdenes, Conexionado y tarea</a>
          <ul>
             <li><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="no-ch">Saber más sobre comunicaciones LoRa P2P</a></li>
          </ul>
@@ -70,7 +70,7 @@
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">Módulo LoRa. Conexionado y tarea</h1></header>
+<header id="nodeDecoration"><h1 id="nodeTitle">Módulo LoRa. Órdenes, Conexionado y tarea</h1></header>
 <article class="iDevice_wrapper textIdevice em_iDevice" id="id206">
 <div class="iDevice emphasis1" >
 <header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Módulo Lora - LoRaWan. Comunicaciones LoRa</h1></header>
@@ -78,15 +78,53 @@
 <div class="iDevice_content_wrapper">
 <div id="ta206_198_2" class="block iDevice_content">
 <div class="exe-text"><p>Los módulos LoRa pueden enviar y recibir señales LoRa (LongRange). LoRa es una tecnología de comunicación patentada, que está pensada para comunicaciones con un bajo consumo de energía, largo alcance y buena inmunidad frente al ruido, lo que la hace ideal para aplicaciones IoT.</p>
-<p><img src="modulo-lora-lorawan.jpg" alt="lora a" title="lora a" width="300" height="300" /></p>
-<p>Para que inicializar el dispositvo LoRa en arduinoblocks debemos utilizar el siguiente bloque en la esctructura "Inicializar" de nuestro programa". En este bloque podemos configurar dos parámetros:</p>
-<p><img src="aclaracion_bloque_lora.png" alt="bloque lora init" title="bloque lora init" width="599" height="342" style="float: right; margin-right: 4px; margin-left: 4px;" /></p>
+<p><img src="modulo-lora-lorawan.jpg" alt="lora a" title="lora a" width="300" height="300" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id79">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Ordenes LoRa en arduinoblocks</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta79_215_2" class="block iDevice_content">
+<div class="exe-text"><table style="height: 50px; width: 100%; border-style: hidden; float: left;" border="1">
+<tbody>
+<tr style="height: 10px;">
+<td style="width: 50%; height: 10px;"><img src="aclaracion_bloque_lora.png" alt="bloque lora init" title="bloque lora init" width="599" height="342" /></td>
+<td style="width: 50%; height: 10px;">
+<p>Para inicializar el dispositvo LoRa en arduinoblocks debemos utilizar el siguiente bloque en la esctructura "Inicializar" de nuestro programa". En este bloque podemos configurar dos parámetros:</p>
 <ul>
 <li>Frecuencia (MHz): las frecuencias de funcionamiento varían dependiendo del país y suelen ser las bandas 433 MHz, 868 MHz y 915 MHz. En nuestro caso 868 MHz.</li>
 <li> Palabra de encriptación de 16 caracteres: se puede usar o no, sirve para proteger nuestros datos enviados a través de un proceso de encriptación. Para que se pueda producir la comunicación entre emisor y receptor deben de tener la misma palabra de encriptación.</li>
 <li>Con respecto a la configuración de pines de conexionado, no hay que tocar los que vienen por defecto, si lo conectamos como indicamos en el siguiente apartado (conexión directa a pines hembra de placa).</li>
 </ul>
-<p></p></div>
+<p></p>
+</td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 50%; height: 10px;"><img src="bloque_lora_send.png" alt="bloque lora send" title="bloque lora send" width="240" height="46" /></td>
+<td style="width: 50%; height: 10px;">
+<p>Envía una trama de datos. La longitud máxima de datos a enviar variará entre 51 y 242 bytes (caracteres). Dependerá de la frecuencia utilizada (en nuestro caso 868 MHz), el ancho de banda utilizado, por defecto 125000 Hz, el SF (Spreading Factor) utilizado, por defecto 7. Por tanto por defecto puede enviar un máximo de 242 bytes (caracteres).</p>
+<p><img src="bytes_maximos_emitir.png" alt="bytes maximos emisión" title="bytes maximos emisión" width="349" height="174" /></p>
+</td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 50%; height: 10px;"><img src="bloque_ondatareceived.png" alt="bloque ondatareceived" title="bloque ondatareceived" width="245" height="95" /></td>
+<td style="width: 50%; height: 10px;">Evento que se activa cuando se reciben datos, vía LoRa.</td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 50%; height: 10px;"><img src="bloque_received_data.png" alt="bloque received data" title="bloque received data" width="246" height="46" /></td>
+<td style="width: 50%; height: 10px;">Dentro del evento anterior, nos devuelve la trama de caracteres que nos han enviado. Si la asignamos a una variable debe ser de texto.</td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 50%; height: 10px;"><img src="bloque_rssi.png" alt="bloque rssi" title="bloque rssi" width="384" height="50" /></td>
+<td style="width: 50%; height: 10px;">Dentro del evento anterior, nos devuelve la intensidad de la señal recibida. Si asignamos el valor a una variable, debe ser numérica.</td>
+</tr>
+</tbody>
+</table></div>
 </div>
 </div>
 </div>
