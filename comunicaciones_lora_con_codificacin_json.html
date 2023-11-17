@@ -77,7 +77,19 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta75_214_2" class="block iDevice_content">
-<div class="exe-text"><p><span style="color: #ff0000;">EN DESARROLLO</span></p></div>
+<div class="exe-text"><p>JSON (JavaScript Object Notation), es un formato estructurado para guardar e intercambiar información, sobre todo se usa en comunicaciones servidor cliente.</p>
+<p>Hay dos elementos fundamentales en un objeto JSON: claves (Keys) y valores (Values).</p>
+<ul>
+<li>Las claves (Keys) deben ser cadenas de caracteres (strings). Estas contienen una secuencia de caracteres, empiezan y terminan con comillas, son la cabecera o identificación del dato que quiero registrar.</li>
+<li>Los valores (Values) son un tipo de datos JSON válido. Puede tener la forma de array, objeto, cadena, booleano, número o nulo. Se separan de su pareja Keys por dos puntos (:).</li>
+</ul>
+<p>Un objeto JSON comienza y termina con llaves {}, y está formado por parejas claves/valor, separados por una coma. Además, cada clave (key) es seguida por dos puntos que lo separa del valor (values).</p>
+<p>La sintaxis de un objeto JSON si los valores (values) son numéricos sería:</p>
+<p>{“key”:value,“key”:value,“key”:value}</p>
+<p>En el caso de nuestro ejemplo siguiente lo que hacemos es mandar y recibir los valores numéricos de presión, altitud y temperatura del emisor a receptor, en formato JSON.</p>
+<p>Cada trama de datos podría ser algo parecido al siguiente ejemplo:</p>
+<p>{"presion":948.05,"altitud":550.55,"temperatura":22.99}</p>
+<p></p></div>
 </div>
 </div>
 </div>
@@ -105,7 +117,21 @@
 <div id="ta77_216_2" class="block iDevice_content">
 <div class="exe-text"><p>El siguiente programa recibe los datos vía LoRa del emisor anterior, analiza los datos JSON, los asigna a variables y los muestra en pantalla OLED.</p>
 <p><a href="http://www.arduinoblocks.com/web/project/1456302" target="_blank" rel="noopener">Código</a>:</p>
-<p><img src="ab_receptor_lora_json.png" alt="codigo receptor lora json" title="codigo receptor lora json" width="899" height="378" /></p></div>
+<p><img src="ab_receptor_lora_json.png" alt="codigo receptor lora json" title="codigo receptor lora json" width="899" height="371" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id82">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Para saber más</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta82_216_2" class="block iDevice_content">
+<div class="exe-text"><ul>
+<li> <a href="https://drive.google.com/file/d/1r290vEJVVZtt8yp4PELnxgTEFWqUUBZk/view" target="_blank" rel="noopener">Análisis básico de datos en formato JSON en arduinoblocks</a>, por <em>Juanjo López</em>.</li>
+</ul></div>
 </div>
 </div>
 </div>

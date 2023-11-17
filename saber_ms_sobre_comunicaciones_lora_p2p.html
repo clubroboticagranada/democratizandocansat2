@@ -107,12 +107,12 @@
 <li>PreambleLength= 8</li>
 <li>SyncWord= 0x12</li>
 <li>Gain = 0 (auto)</li>
-<li><span style="color: #ff0000;">EnableCRC= disable</span></li>
+<li><span style="color: #ff0000;">EnableCRC= disable (no disponible en arduinoblocks)<br /></span></li>
 </ul>
 <p>En el programa podemos modificar cualquiera de estos parámetros con los siguientes bloques de arduinoblocks relacionados con la modificación de nuestra transmisión LoRa:</p>
 <p><img src="bloques_lora_avanzados.png" alt="bloques lora avanzados" title="bloques lora avanzados" width="400" height="533" style="float: right; margin-right: 4px; margin-left: 4px;" /></p>
 <h5>TX Power</h5>
-<p>Define la potencia de la transmisión de decibelios (dB) de nuestro dispositivo LoRa. Le podemos dar valores entre 2 y 10 decibelios (dB).</p>
+<p>Define la potencia de la transmisión de decibelios (dB) de nuestro dispositivo LoRa. Le podemos dar valores entre 2 y 20 decibelios (dB), por defecto 17 dB.</p>
 <h5>Frequency. Frecuencia (portadora)</h5>
 <p>Define la frecuencia portadora del medio utilizado tanto para las operaciones de transmisión como para las de escucha. También depende de la región operativa: en Europa, la frecuencia portadora operativa de LoRa es la banda ISM de la UE 863-870MHz. En nuestro caso por defecto 868 MHz. Podemos cambiar a valores no enteros como en el ejemplo de configuración de la imagen.</p>
 <h5>Ancho de banda (BandWidth)</h5>
@@ -132,7 +132,9 @@
 <p>Son un numero de símbolos que se envían al principio de cada información enviada en LoRa, su valor por defecto son 8, pero se les puede dar un rango entre 6 y 65535 símbolos.</p>
 <h5>Sync word</h5>
 <p>Establece la palabra de sincronismo de la comunicación de radio LoRa. Es un byte en hexadecimal cuyo valor por defecto es 0x12, y puede tomar un rango de valores entre 0 y 0xFF.</p>
-<h5><span style="color: #ff0000;">CRC</span></h5>
+<h5>Gain</h5>
+<p>Configura la ganancia de LNA para obtener una mejor sensibilidad de RX; de forma predeterminada, se usa AGC (control automático de ganancia) y no se usa la ganancia de LNA.<br />Valores de 0 (ganancia automática) hasta el 6. Por defecto 0.</p>
+<h5><span style="color: #ff0000;">CRC (configuración no disponible en arduinoblocks)<br /></span></h5>
 <p><span style="color: #ff0000;">La verificación por redundancia cíclica​ (CRC) es un código de detección de errores usado frecuentemente en redes digitales y en dispositivos de almacenamiento para detectar cambios accidentales en los datos. Comprueba aritméticamente que los datos recibidos concuerdan con los enviados. El CRC está por defecto deshabilitado y se puede habilitar o no.</span><code></code></p></div>
 </div>
 </div>
