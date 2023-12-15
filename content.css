@@ -186,7 +186,7 @@ color:#2495ff;
 #header,#emptyHeader,#nodeDecoration{
 height:auto!important;
 /*headerHeight*/
-height:120px;min-height:120px;
+height:100px;min-height:100px;
 /*headerBGColor*/
 background-color:#f7e5d4;
 /*headerBGURL*/
