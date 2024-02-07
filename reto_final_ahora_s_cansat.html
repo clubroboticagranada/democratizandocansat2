@@ -41,16 +41,19 @@
          </li>
       </ul>
       </li>
-      <li><a href="primera_comunicacin_lora_tratamiento_de_datos.html" class="daddy">Primera Comunicación LoRa. Tratamiento de datos</a>
+      <li><a href="primera_comunicacin_lora.html" class="daddy">Primera comunicación LoRa</a>
       <ul class="other-section">
-         <li><a href="emisor.html" class="no-ch">Emisor</a></li>
-         <li><a href="receptor.html" class="no-ch">Receptor</a></li>
-         <li><a href="tratamiento_de_datos.html" class="no-ch">Tratamiento de datos</a></li>
-      </ul>
-      </li>
-      <li><a href="comunicaciones_lora_con_codificacin_json.html" class="daddy">Comunicaciones LoRa con codificación JSON</a>
-      <ul class="other-section">
-         <li><a href="tratamiento_de_datos_con_arduinoblocks.html" class="no-ch">Tratamiento de datos con arduinoblocks</a></li>
+         <li><a href="conexionado.html" class="no-ch">Conexionado</a></li>
+         <li><a href="programas_con_datos_json_recomendado.html" class="daddy">Programas con datos JSON (recomendado)</a>
+         <ul class="other-section">
+            <li><a href="tratamiento_de_datos_con_arduinoblocks.html" class="no-ch">Tratamiento de datos con arduinoblocks</a></li>
+         </ul>
+         </li>
+         <li><a href="programas_con_datos_csv.html" class="daddy">Programas con datos CSV</a>
+         <ul class="other-section">
+            <li><a href="tratamiento_de_datos_csv.html" class="no-ch">Tratamiento de datos csv</a></li>
+         </ul>
+         </li>
       </ul>
       </li>
       <li id="active"><a href="reto_final_ahora_s_cansat.html" class="active no-ch">Reto Final. Ahora sí CANSAT</a></li>
@@ -85,7 +88,7 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="tratamiento_de_datos_con_arduinoblocks.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="alimentacin_y_consumo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="tratamiento_de_datos_csv.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="alimentacin_y_consumo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
@@ -108,28 +111,9 @@
 </div>
 </div>
 </article>
-<article class="iDevice_wrapper pblIdevice em_iDevice em_iDevice_activity" id="id67">
-<div class="iDevice emphasis1" >
-<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programa</h1></header>
-<div class="iDevice_inner">
-<div class="iDevice_content_wrapper">
-<div id="ta67_216_2" class="block iDevice_content">
-<div class="pbl-task-description"><p>Se trata de a través de un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger datos de: tiempo, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z, presentarlos en la pantalla del emisor y transmitirlos al receptor compuesto por ESP32 STEAMakers con modulo LoRa. La frecuencia con la que realiza estas operaciones es de cada segundo. </p>
-<p>El receptor estará conectado al PC por USB realizando una comunicación serie, mostrándose y graficándose en tiempo real en el PC los datos recibidos.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p><a href="http://www.arduinoblocks.com/web/project/1443311" target="_blank" rel="noopener">Código</a> emisor:</p>
-<p>En el emisor podemos prescindir si lo deseamos de la pantalla, y por tanto podemos desactivar la función "enviaPantalla", ya que sólo será de utilidad en las pruebas y no en un lanzamiento real.</p>
-<p><img src="ab_emisor_lora_completo.png" alt="cansat emisor completo" title="cansat emisor completo" width="900" height="478" /></p>
-<p></p>
-<p><a href="http://www.arduinoblocks.com/web/project/1442613" target="_blank" rel="noopener">Código</a> receptor:</p>
-<p><img src="ab_receptor_lora.1.png" alt="codigo receptor lora" title="codigo receptor lora" width="601" height="363" /></p>
-<p></p></div>
-</div>
-</div>
-</div>
-</div>
-</article>
 <article class="iDevice_wrapper pblIdevice em_iDevice em_iDevice_activity" id="id92">
 <div class="iDevice emphasis1" >
-<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programas con datos en formato JSON</h1></header>
+<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programas con datos en formato JSON (recomendado)</h1></header>
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta92_223_2" class="block iDevice_content">
@@ -144,6 +128,25 @@
 </div>
 </div>
 </article>
+<article class="iDevice_wrapper pblIdevice em_iDevice em_iDevice_activity" id="id67">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programas con datos en formato CSV</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta67_216_2" class="block iDevice_content">
+<div class="pbl-task-description"><p>Se trata de a través de un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger datos de: tiempo, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z, presentarlos en la pantalla del emisor y transmitirlos al receptor compuesto por ESP32 STEAMakers con modulo LoRa. La frecuencia con la que realiza estas operaciones es de cada segundo.</p>
+<p>El receptor estará conectado al PC por USB realizando una comunicación serie, mostrándose y graficándose en tiempo real en el PC los datos recibidos.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p><a href="http://www.arduinoblocks.com/web/project/1443311" target="_blank" rel="noopener">Código</a> emisor:</p>
+<p>En el emisor podemos prescindir si lo deseamos de la pantalla, y por tanto podemos desactivar la función "enviaPantalla", ya que sólo será de utilidad en las pruebas y no en un lanzamiento real.</p>
+<p><img src="ab_emisor_lora_completo.png" alt="cansat emisor completo" title="cansat emisor completo" width="900" height="478" /></p>
+<p></p>
+<p><a href="http://www.arduinoblocks.com/web/project/1442613" target="_blank" rel="noopener">Código</a> receptor:</p>
+<p><img src="ab_receptor_lora.1.png" alt="codigo receptor lora" title="codigo receptor lora" width="601" height="363" /></p>
+<p></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
 <div id="packageLicense" class="cc cc-by-sa">
 <p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
 </div>
@@ -151,7 +154,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="tratamiento_de_datos_con_arduinoblocks.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="alimentacin_y_consumo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="tratamiento_de_datos_csv.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="alimentacin_y_consumo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <footer id="siteFooter">Pedro Ruiz Fernández</footer></div>

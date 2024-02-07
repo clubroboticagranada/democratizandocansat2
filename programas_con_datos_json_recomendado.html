@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="es">
+<head>
+<link rel="stylesheet" type="text/css" href="base.css" />
+<link rel="stylesheet" type="text/css" href="content.css" />
+<link rel="stylesheet" type="text/css" href="nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Programas con datos JSON (recomendado) | Democratizando CANSAT II. El Retorno </title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="author" content="Pedro Ruiz Fernández" />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<meta name="generator" content="eXeLearning 2.8.1 - exelearning.net" />
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="exe_jquery.js"></script>
+<script type="text/javascript" src="common_i18n.js"></script>
+<script type="text/javascript" src="common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+<body class="exe-web-site exe-auto-math" id="exe-node-49"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<header id="header" ><div id="headerContent">Democratizando CANSAT II. El Retorno</div></header>
+<nav id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II</a></li>
+   <li class="current-page-parent"><a href="sistemas_de_control.html" class="current-page-parent daddy">Sistemas de control</a>
+   <ul>
+      <li><a href="elementos_de_sistema_cansat.html" class="daddy">Elementos de sistema CANSAT</a>
+      <ul class="other-section">
+         <li><a href="software_arduinoblocks.html" class="no-ch">Software. Arduinoblocks</a></li>
+         <li><a href="elemento_de_control_esp_32_steamakers.html" class="no-ch">Elemento de control. ESP 32 SteaMakers</a></li>
+         <li><a href="pantalla_oled_conexionado_y_tarea.html" class="no-ch">Pantalla OLED. Conexionado y tarea</a></li>
+         <li><a href="bmp280_conexionado_y_tarea.html" class="no-ch">BMP280. Conexionado y tarea</a></li>
+         <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
+         <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
+         <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
+         <li><a href="mdulo_lora_rdenes_conexionado_y_tarea.html" class="daddy">Módulo LoRa. Órdenes, Conexionado y tarea</a>
+         <ul class="other-section">
+            <li><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="no-ch">Saber más sobre comunicaciones LoRa P2P</a></li>
+         </ul>
+         </li>
+      </ul>
+      </li>
+      <li class="current-page-parent"><a href="primera_comunicacin_lora.html" class="current-page-parent daddy">Primera comunicación LoRa</a>
+      <ul>
+         <li><a href="conexionado.html" class="no-ch">Conexionado</a></li>
+         <li id="active"><a href="programas_con_datos_json_recomendado.html" class="active daddy">Programas con datos JSON (recomendado)</a>
+         <ul>
+            <li><a href="tratamiento_de_datos_con_arduinoblocks.html" class="no-ch">Tratamiento de datos con arduinoblocks</a></li>
+         </ul>
+         </li>
+         <li><a href="programas_con_datos_csv.html" class="daddy">Programas con datos CSV</a>
+         <ul class="other-section">
+            <li><a href="tratamiento_de_datos_csv.html" class="no-ch">Tratamiento de datos csv</a></li>
+         </ul>
+         </li>
+      </ul>
+      </li>
+      <li><a href="reto_final_ahora_s_cansat.html" class="no-ch">Reto Final. Ahora sí CANSAT</a></li>
+      <li><a href="alimentacin_y_consumo.html" class="no-ch">Alimentación y consumo</a></li>
+   </ul>
+   </li>
+   <li><a href="estructura_3d.html" class="daddy">Estructura 3D</a>
+   <ul class="other-section">
+      <li><a href="estructura_3d_vegasteam.html" class="no-ch">Estructura 3D VegaSteam</a></li>
+      <li><a href="estructura_3d_club_robtica_granada.html" class="no-ch">Estructura 3D Club Robótica Granada</a></li>
+   </ul>
+   </li>
+   <li><a href="paracaidas.html" class="daddy">Paracaidas</a>
+   <ul class="other-section">
+      <li><a href="calculo_radio.html" class="no-ch">Calculo Radio</a></li>
+      <li><a href="trazado_de_gores_piezas.html" class="no-ch">Trazado de gores (piezas)</a></li>
+   </ul>
+   </li>
+   <li><a href="ms_sobre_proyecto_cansat.html" class="no-ch">Más sobre proyecto CANSAT</a></li>
+   <li><a href="gua_didctica.html" class="daddy">Guía didáctica</a>
+   <ul class="other-section">
+      <li><a href="unidad_didctica.html" class="no-ch">Unidad didáctica</a></li>
+      <li><a href="tareas_y_criterios_de_evaluacin.html" class="no-ch">Tareas y criterios de evaluación</a></li>
+      <li><a href="temporalizacin_de_tareas.html" class="no-ch">Temporalización de tareas</a></li>
+      <li><a href="intrumentos_de_evaluacin.html" class="no-ch">Intrumentos de evaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="fotos_y_vdeos_del_concurso.html" class="no-ch">Fotos y Vídeos del Concurso</a></li>
+   <li><a href="fuentes.html" class="no-ch">Fuentes</a></li>
+   <li><a href="crditos.html" class="no-ch">Créditos</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="conexionado.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="tratamiento_de_datos_con_arduinoblocks.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<div id="main-wrapper">
+<section id="main">
+<header id="nodeDecoration"><h1 id="nodeTitle">Programas con datos JSON (recomendado)</h1></header>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id75">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Formato JSON</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta75_214_2" class="block iDevice_content">
+<div class="exe-text"><p>JSON (JavaScript Object Notation), es un formato estructurado para guardar e intercambiar información, sobre todo se usa en comunicaciones servidor cliente.</p>
+<p>Hay dos elementos fundamentales en un objeto JSON: claves (Keys) y valores (Values).</p>
+<ul>
+<li>Las claves (Keys) deben ser cadenas de caracteres (strings). Estas contienen una secuencia de caracteres, empiezan y terminan con comillas, son la cabecera o identificación del dato que quiero registrar.</li>
+<li>Los valores (Values) son un tipo de datos JSON válido. Puede tener la forma de array, objeto, cadena, booleano, número o nulo. Se separan de su pareja Keys por dos puntos (:).</li>
+</ul>
+<p>Un objeto JSON comienza y termina con llaves {}, y está formado por parejas claves/valor, separados por una coma. Además, cada clave (key) es seguida por dos puntos que lo separa del valor (values).</p>
+<p>La sintaxis de un objeto JSON si los valores (values) son numéricos sería:</p>
+<p>{“key”:value,“key”:value,“key”:value}</p>
+<p>En el caso de nuestro ejemplo siguiente lo que hacemos es mandar y recibir los valores numéricos de presión, altitud y temperatura del emisor a receptor, en formato JSON.</p>
+<p>Cada trama de datos podría ser algo parecido al siguiente ejemplo:</p>
+<p>{"presion":948.05,"altitud":550.55,"temperatura":22.99}</p>
+<p></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id76">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Emisor LoRa JSON</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta76_215_2" class="block iDevice_content">
+<div class="exe-text"><p>Este programa envía vía LoRa cada segundo en formato de texto JSON, la información de tiempo (s), presión (mb), altitud (m) y temperatura (ºC) a un receptor LoRa.</p>
+<p><a href="http://www.arduinoblocks.com/web/project/1454108" target="_blank" rel="noopener">Código</a>:</p>
+<p><img src="ab_emisor_lora_oled_bmp280_json.png" alt="codigo emisor lora bmp280 json" title="codigo emisor lora bmp280 json" width="900" height="658" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id77">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Receptor LoRa JSON</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta77_216_2" class="block iDevice_content">
+<div class="exe-text"><p>Al receptor le vamos a conectar una pantalla OLED, ya que con el formato JSON podemos extraer y separar fácilmente la información para mostrarla en pantalla.</p>
+<p>El siguiente programa recibe los datos vía LoRa del emisor anterior, analiza los datos JSON, y si son correctos los asigna a variables y los muestra en pantalla OLED.</p>
+<p><a href="http://www.arduinoblocks.com/web/project/1456302" target="_blank" rel="noopener">Código</a>:</p>
+<p><img src="ab_receptor_lora_json.png" alt="codigo receptor lora json" title="codigo receptor lora json" width="899" height="383" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id82">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Para saber más</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta82_216_2" class="block iDevice_content">
+<div class="exe-text"><ul>
+<li> <a href="https://drive.google.com/file/d/1r290vEJVVZtt8yp4PELnxgTEFWqUUBZk/view" target="_blank" rel="noopener">Análisis básico de datos en formato JSON en arduinoblocks</a>, por <em>Juanjo López</em>.</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<div id="packageLicense" class="cc cc-by-sa">
+<p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="conexionado.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="tratamiento_de_datos_con_arduinoblocks.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<footer id="siteFooter">Pedro Ruiz Fernández</footer></div>
+<p id="made-with-eXe"><a href="https://exelearning.net/" target="_blank" rel="noopener"><span>Creado con eXeLearning<span> (Ventana nueva)</span></span></a></p><script type="text/javascript" src="_style_js.js"></script></body></html>
