@@ -11324,7 +11324,7 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para la estructura 3D de vuestro CANSAT proponemos dos modelos, que pueden servir como base para vuestro diseño final. &lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para la estructura 3D de vuestro CANSAT proponemos tres modelos, que pueden servir como base para vuestro diseño final.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -17954,7 +17954,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="323"></reference>
+  <reference key="196"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
