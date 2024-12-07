@@ -73,6 +73,7 @@
       <li><a href="trazado_de_gores_piezas.html" class="no-ch">Trazado de gores (piezas)</a></li>
    </ul>
    </li>
+   <li><a href="panel_entrenador_cansat_express.html" class="no-ch">Panel entrenador Cansat Express</a></li>
    <li><a href="ms_sobre_proyecto_cansat.html" class="no-ch">Más sobre proyecto CANSAT</a></li>
    <li><a href="gua_didctica.html" class="daddy">Guía didáctica</a>
    <ul class="other-section">
@@ -101,8 +102,8 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta203_198_2" class="block iDevice_content">
-<div class="exe-text"><p>El GPS (Sistema de posicionamiento global, Global Positioning System) es un dispositivo que nos permite, a través de comunicación con satélites, determinar nuestra posición en el planeta tierra. En concreto el que tenemos es el modelo GPS6MV2, basado en el chip receptor NEO 6M de la marca UBLOX. Se comunica a través de puerto serie con la placa. </p>
-<p><img src="gps2.png" alt="gps" title="gps" width="300" height="231" /></p></div>
+<div class="exe-text"><p>El GPS (Sistema de posicionamiento global, Global Positioning System) es un dispositivo que nos permite, a través de comunicación con satélites, determinar nuestra posición en el planeta tierra. En concreto mostramos dos modelos el de la izquierda el GPS6MV2, basado en el chip receptor NEO 6M de la marca UBLOX, y el de la derecha basado en el chip receptor NEO-7M de la marca keyestudio. Estos dispositivos se comunican a través de puerto serie con la placa. Para saber más del GPS de keyestudio, podemos visitar la <a href="https://wiki.keyestudio.com/KS0319_keyestudio_GPS_Module" target="_blank" rel="noopener">web del mismo en la wiki de dicho fabricante</a>.</p>
+<p><img src="gps2.png" alt="gps" title="gps" width="300" height="231" /><img src="gps_key.png" alt="gps keyestudio" title="gps keyestudio" width="640" height="242" style="margin-right: 10px; margin-left: 10px;" /></p></div>
 </div>
 </div>
 </div>
@@ -114,8 +115,8 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta204_199_2" class="block iDevice_content">
-<div class="exe-text"><p>El GPS se conecta a un puerto serie de nuestra placa, en concreto la ESP32 STEAMakers tiene dos puertos series, el 1 (pin RX D0, pin TX D1), y el 2 (pin RX2 D5, pin TX2 D4). En concreto conectaremos al puerto serie 2, ya que el 1 se usa para comunicaciones con el ordenador y por ejemplo cargar los programas desde el ordenador a la placa. Conectaremos el pin RX del GPS al pin TX2 (D4 IO17) de la placa, y el pin TX del GPS al pin RX2 (D5 IO16) de la placa. El Vcc (+) del GPS se conectará a + de la placa (V), y el GND (-) del GPS se conectará al - de la placa (G).</p>
-<p><img src="esp32_oled_gps_bb.png" alt="esp32 lcd gps" title="esp32 lcd gps" width="600" height="441" /></p></div>
+<div class="exe-text"><p>El GPS se conecta a un puerto serie de nuestra placa, en concreto la ESP32 STEAMakers tiene dos puertos series, el 1 (pin RX D0, pin TX D1), y el 2 (pin RX2 D5, pin TX2 D4). En concreto conectaremos al puerto serie 2, ya que el 1 se usa para comunicaciones con el ordenador y por ejemplo cargar los programas desde el ordenador a la placa. Conectaremos el pin RX del GPS al pin TX2 (D4 IO17) de la placa, y el pin TX del GPS al pin RX2 (D5 IO16) de la placa. El Vcc (+) del GPS se conectará a + de la placa (V), y el GND (-) del GPS se conectará al - de la placa (G). Mostramos el conexionado en un GPS genérico (izquierda) y en GPS de keyestudio (derecha).</p>
+<p><img src="esp32_oled_gps_bb.png" alt="esp32 lcd gps" title="esp32 lcd gps" width="600" height="441" /><img src="esp32_gps_key.png" alt="esp32 gps key" title="esp32 gps key" width="801" height="299" style="margin-right: 10px; margin-left: 10px;" /></p></div>
 </div>
 </div>
 </div>
