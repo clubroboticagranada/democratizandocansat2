@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="es">
+<head>
+<link rel="stylesheet" type="text/css" href="base.css" />
+<link rel="stylesheet" type="text/css" href="content.css" />
+<link rel="stylesheet" type="text/css" href="nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Elemento de control. ESP32 STEAMakers | Democratizando CANSAT II. El Retorno </title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="author" content="Pedro Ruiz Fernández" />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<meta name="generator" content="eXeLearning 2.9 - exelearning.net" />
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="exe_jquery.js"></script>
+<script type="text/javascript" src="common_i18n.js"></script>
+<script type="text/javascript" src="common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+<body class="exe-web-site exe-auto-math" id="exe-node-26"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<header id="header" ><div id="headerContent">Democratizando CANSAT II. El Retorno</div></header>
+<nav id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II. El Retorno</a></li>
+   <li class="current-page-parent"><a href="sistemas_de_control.html" class="current-page-parent daddy">Sistemas de control</a>
+   <ul>
+      <li class="current-page-parent"><a href="elementos_de_sistema_cansat.html" class="current-page-parent daddy">Elementos de sistema CANSAT</a>
+      <ul>
+         <li><a href="software_steamakersblocks.html" class="no-ch">Software. Steamakersblocks</a></li>
+         <li id="active"><a href="elemento_de_control_esp32_steamakers.html" class="active no-ch">Elemento de control. ESP32 STEAMakers</a></li>
+         <li><a href="pantalla_oled_conexionado_y_tarea.html" class="no-ch">Pantalla OLED. Conexionado y tarea</a></li>
+         <li><a href="bmp280_conexionado_y_tarea.html" class="no-ch">BMP280. Conexionado y tarea</a></li>
+         <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
+         <li><a href="dht22_conexionado_y_tarea.html" class="no-ch">DHT22. Conexionado y tarea</a></li>
+         <li><a href="gps_conexionado_y_tarea.html" class="no-ch">GPS. Conexionado y tarea</a></li>
+         <li><a href="mdulo_lora_rdenes_conexionado_y_tarea.html" class="daddy">Módulo LoRa. Órdenes, Conexionado y tarea</a>
+         <ul class="other-section">
+            <li><a href="saber_ms_sobre_comunicaciones_lora_p2p.html" class="no-ch">Saber más sobre comunicaciones LoRa P2P</a></li>
+         </ul>
+         </li>
+      </ul>
+      </li>
+      <li><a href="primera_comunicacin_lora.html" class="daddy">Primera comunicación LoRa</a>
+      <ul class="other-section">
+         <li><a href="conexionado.html" class="no-ch">Conexionado</a></li>
+         <li><a href="programas_con_datos_json_recomendado.html" class="daddy">Programas con datos JSON (recomendado)</a>
+         <ul class="other-section">
+            <li><a href="tratamiento_de_datos_con_steamakersblocks.html" class="no-ch">Tratamiento de datos con steamakersblocks</a></li>
+         </ul>
+         </li>
+         <li><a href="programas_con_datos_csv.html" class="daddy">Programas con datos CSV</a>
+         <ul class="other-section">
+            <li><a href="tratamiento_de_datos_csv.html" class="no-ch">Tratamiento de datos csv</a></li>
+         </ul>
+         </li>
+      </ul>
+      </li>
+      <li><a href="reto_final_ahora_s_cansat.html" class="no-ch">Reto Final. Ahora sí CANSAT</a></li>
+      <li><a href="alimentacin_y_consumo.html" class="no-ch">Alimentación y consumo</a></li>
+   </ul>
+   </li>
+   <li><a href="estructura_3d.html" class="daddy">Estructura 3D</a>
+   <ul class="other-section">
+      <li><a href="estructura_3d_pablo_moraga.html" class="no-ch">Estructura 3D Pablo Moraga</a></li>
+      <li><a href="estructura_3d_vegasteam.html" class="no-ch">Estructura 3D VegaSteam</a></li>
+      <li><a href="estructura_3d_club_robtica_granada.html" class="no-ch">Estructura 3D Club Robótica Granada</a></li>
+   </ul>
+   </li>
+   <li><a href="paracaidas.html" class="daddy">Paracaidas</a>
+   <ul class="other-section">
+      <li><a href="calculo_radio.html" class="no-ch">Calculo Radio</a></li>
+      <li><a href="trazado_de_gores_piezas.html" class="no-ch">Trazado de gores (piezas)</a></li>
+   </ul>
+   </li>
+   <li><a href="panel_entrenador_cansat_express.html" class="no-ch">Panel entrenador Cansat Express</a></li>
+   <li><a href="ms_sobre_proyecto_cansat.html" class="no-ch">Más sobre proyecto CANSAT</a></li>
+   <li><a href="gua_didctica.html" class="daddy">Guía didáctica</a>
+   <ul class="other-section">
+      <li><a href="unidad_didctica.html" class="no-ch">Unidad didáctica</a></li>
+      <li><a href="tareas_y_criterios_de_evaluacin.html" class="no-ch">Tareas y criterios de evaluación</a></li>
+      <li><a href="temporalizacin_de_tareas.html" class="no-ch">Temporalización de tareas</a></li>
+      <li><a href="intrumentos_de_evaluacin.html" class="no-ch">Intrumentos de evaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="fotos_y_vdeos_del_concurso.html" class="no-ch">Fotos y Vídeos del Concurso</a></li>
+   <li><a href="fuentes.html" class="no-ch">Fuentes</a></li>
+   <li><a href="crditos.html" class="no-ch">Créditos</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="software_steamakersblocks.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="pantalla_oled_conexionado_y_tarea.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<div id="main-wrapper">
+<section id="main">
+<header id="nodeDecoration"><h1 id="nodeTitle">Elemento de control. ESP32 STEAMakers</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id169">
+<div class="iDevice emphasis0" >
+<div id="ta169_112_2" class="block iDevice_content">
+<div class="exe-text"><p>En nuestro caso como elemento de control vamos a utilizar una placa de control programable ESP32 Steamakers por varios motivos:<img src="steamaker.png" alt="steammakers" title="steammakers" width="500" height="361" style="float: right;" /></p>
+<ul>
+<li>Basada en ESP32 lo que significa, capacidad de proceso, conectividad wifi y bluetooth, etc.</li>
+<li>Factor de forma Arduino y compatibilidad con shields de Arduino.</li>
+<li>Fácil conexionado. Pinout macho disponible para los puertos de la placa, luego el conexionado se puede hacer sin protoboard.</li>
+<li>Sensores integrados: energía, temperatura y campo magnético.</li>
+<li>Lector de tarjeta microSD incorporada.</li>
+<li>Arduinoblocks es totalmente compatible con la misma, pensado para todas sus funcionalidades.</li>
+<li>Detallada documentación técnica.</li>
+<li>Prolija documentación didáctica.</li>
+<li>Calidad de construcción y soporte de fabricante.</li>
+<li>Diseñada en España por docentes para la enseñanza.</li>
+<li>Varios distribuidores en España.</li>
+</ul>
+<p></p></div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id170">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Características técnicas y pinout</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta170_113_2" class="block iDevice_content">
+<div class="exe-text"><p>Las características más importantes de esta placa son:<img src="steamakers_a.png" alt="steamakers" title="steamakers" width="600" height="496" style="float: right;" /></p>
+<ul>
+<li>Microcontrolador Tensilica Xtensa 32-bit LX6 a 160MHz.</li>
+<li>Conectividad Wifi 802.11 b/g/n/e/i.</li>
+<li>Conectividad Bluetooth 4.2 y modo BLE.</li>
+<li>Zócalo para tarjetas µSD.</li>
+<li>14 entradas y salidas digitales con alimentación.</li>
+<li>Conector serie hembra con alimentación.</li>
+<li>Conector I2C para conectar hasta 5 dispositivos a la vez sobre la misma placa.</li>
+<li>Conector hembra I2C para conexión de una pantalla OLED.</li>
+<li>Pulsador Reset.</li>
+<li>Conector de 5V.</li>
+<li>Conector de 3.3V.</li>
+<li>Interruptor 3.3-5V seleccionable para cambiar entre estas dos tensiones en algunos pines de alimentación.</li>
+<li>Entradas y salidas analógicas.</li>
+<li>Sensor Hall y de temperatura integrado.</li>
+<li>2 convertidores Digital-Analógico (DAC) de 8 bits.</li>
+<li>16 convertidores Analógico-Digital (ADC) de 12 bits.</li>
+<li>16 canales PWM.</li>
+<li>2 UART.</li>
+<li>2 canales I2C.</li>
+<li>4 canales SPI.</li>
+<li>448Kb ROM.</li>
+<li>520 KB SRAM.<img src="steamakers_b.png" alt="steammakers b" title="steammakers b" width="500" height="342" style="float: right;" /></li>
+<li>8KB+8KB SRAM en RTC.</li>
+<li>1kbit eFUSE.</li>
+<li>512 bytes Memoria Flash (EEPROM).</li>
+<li>10 sensores táctiles.</li>
+<li>4 temporizadores internos de 64 bits.</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice em_iDevice" id="id45">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Para saber más sobre ESP32 STEAMakers</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta45_194_2" class="block iDevice_content">
+<div class="exe-text"><p>Os ponemos una relación de recursos para aprender a trabajar con la placa y sacarle partido a la misma:</p>
+<ul>
+<li><a href="https://www.dropbox.com/s/dlaxgwj1vx8u1kw/Manual%20Actividades%20ESP32%20SteaMakers%202022_Junio.pdf?dl=0" target="_blank" rel="noopener">Documentación y manual de programación</a></li>
+<li><a href="https://fgcoca.github.io/ESP32-STEAMakers/" target="_blank" rel="noopener">Notas sobre ESP32 STEAMakers (por Federico Coca)</a></li>
+<li><a href="https://pedroruizf.github.io/steamakers_demo/" target="_blank" rel="noopener">Control programado con ESP32 Steamaker + TDR-Steam + Arduinoblocks (centrado en IoT), (por Pedro Ruiz)</a><br /><br /></li>
+</ul>
+<p></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<div id="packageLicense" class="cc cc-by-sa">
+<p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="software_steamakersblocks.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="pantalla_oled_conexionado_y_tarea.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<footer id="siteFooter">Pedro Ruiz Fernández</footer></div>
+<p id="made-with-eXe"><a href="https://exelearning.net/" target="_blank" rel="noopener"><span>Creado con eXeLearning<span> (Ventana nueva)</span></span></a></p><script type="text/javascript" src="_style_js.js"></script></body></html>

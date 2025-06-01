@@ -22,13 +22,13 @@
 <header id="header" ><div id="headerContent">Democratizando CANSAT II. El Retorno</div></header>
 <nav id="siteNav">
 <ul>
-   <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II</a></li>
+   <li><a href="index.html" class="daddy main-node">Democratizando CANSAT II. El Retorno</a></li>
    <li class="current-page-parent"><a href="sistemas_de_control.html" class="current-page-parent daddy">Sistemas de control</a>
    <ul>
       <li><a href="elementos_de_sistema_cansat.html" class="daddy">Elementos de sistema CANSAT</a>
       <ul class="other-section">
-         <li><a href="software_arduinoblocks.html" class="no-ch">Software. Arduinoblocks</a></li>
-         <li><a href="elemento_de_control_esp_32_steamakers.html" class="no-ch">Elemento de control. ESP 32 SteaMakers</a></li>
+         <li><a href="software_steamakersblocks.html" class="no-ch">Software. Steamakersblocks</a></li>
+         <li><a href="elemento_de_control_esp32_steamakers.html" class="no-ch">Elemento de control. ESP32 STEAMakers</a></li>
          <li><a href="pantalla_oled_conexionado_y_tarea.html" class="no-ch">Pantalla OLED. Conexionado y tarea</a></li>
          <li><a href="bmp280_conexionado_y_tarea.html" class="no-ch">BMP280. Conexionado y tarea</a></li>
          <li><a href="mpu6050_conexionado_y_tarea.html" class="no-ch">MPU6050. Conexionado y tarea</a></li>
@@ -46,7 +46,7 @@
          <li><a href="conexionado.html" class="no-ch">Conexionado</a></li>
          <li><a href="programas_con_datos_json_recomendado.html" class="daddy">Programas con datos JSON (recomendado)</a>
          <ul class="other-section">
-            <li><a href="tratamiento_de_datos_con_arduinoblocks.html" class="no-ch">Tratamiento de datos con arduinoblocks</a></li>
+            <li><a href="tratamiento_de_datos_con_steamakersblocks.html" class="no-ch">Tratamiento de datos con steamakersblocks</a></li>
          </ul>
          </li>
          <li><a href="programas_con_datos_csv.html" class="daddy">Programas con datos CSV</a>
@@ -62,8 +62,8 @@
    </li>
    <li><a href="estructura_3d.html" class="daddy">Estructura 3D</a>
    <ul class="other-section">
-      <li><a href="estructura_3d_vegasteam.html" class="no-ch">Estructura 3D VegaSteam</a></li>
       <li><a href="estructura_3d_pablo_moraga.html" class="no-ch">Estructura 3D Pablo Moraga</a></li>
+      <li><a href="estructura_3d_vegasteam.html" class="no-ch">Estructura 3D VegaSteam</a></li>
       <li><a href="estructura_3d_club_robtica_granada.html" class="no-ch">Estructura 3D Club Robótica Granada</a></li>
    </ul>
    </li>
@@ -118,11 +118,11 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta92_223_2" class="block iDevice_content">
-<div class="pbl-task-description"><p>Tenemos un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger y enviar datos cada segundo de: tiempo transcurrido, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z. El receptor está compuesto por ESP32 STEAMakers con modulo LoRa y pantalla OLED de 0,96" y está conectado al PC por USB, realizando una comunicación serie, mostrando y graficando en tiempo real en el PC los datos recibidos a través de arduinoblocks. Tanto en emisor como en receptor se guardan los datos en formato CSV en microSD.</p>
-<p>En este caso los datos de envío y recepción están codificados en formato JSON, ya que de esta manera podemos extraer y separar fácilmente la información en recepción para mostrarla en pantalla.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p>Código <a href="http://www.arduinoblocks.com/web/project/1518534" target="_blank" rel="noopener">emisor</a>:</p>
+<div class="pbl-task-description"><p>Tenemos un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger y enviar datos cada segundo de: tiempo transcurrido, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z. El receptor está compuesto por ESP32 STEAMakers con modulo LoRa y pantalla OLED de 0,96" y está conectado al PC por USB, realizando una comunicación serie, mostrando y graficando en tiempo real en el PC los datos recibidos a través de steamakersblocks. Tanto en emisor como en receptor se guardan los datos en formato CSV en microSD.</p>
+<p>En este caso los datos de envío y recepción están codificados en formato JSON, ya que de esta manera podemos extraer y separar fácilmente la información en recepción para mostrarla en pantalla.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p>Código <a href="http://www.steamakersblocks.com/web/project/1518534" target="_blank" rel="noopener">emisor</a>:</p>
 <p>En el emisor podemos prescindir si lo deseamos de la pantalla, y por tanto podemos desactivar la función "enviaPantalla", ya que sólo será de utilidad en las pruebas y no en un lanzamiento real.</p>
 <p><img src="ab_emisor_lora_completo_json.png" alt="ab emisor completo json" title="ab emisor completo json" width="800" height="550" /></p>
-<p>Código <a href="http://www.arduinoblocks.com/web/project/1518539" target="_blank" rel="noopener">receptor</a>:</p>
+<p>Código <a href="http://www.steamakersblocks.com/web/project/1518539" target="_blank" rel="noopener">receptor</a>:</p>
 <p><img src="ab_receptor_lora_completo_json_graficado.png" alt="ab receptor completo json graficado" title="ab receptor completo json graficado" width="800" height="793" /></p></div>
 </div>
 </div>
@@ -136,10 +136,10 @@
 <div class="iDevice_content_wrapper">
 <div id="ta67_216_2" class="block iDevice_content">
 <div class="pbl-task-description"><p>Tenemos un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger y enviar datos cada segundo de: tiempo transcurrido, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z. El receptor está compuesto por ESP32 STEAMakers con modulo LoRa y está conectado al PC por USB, realizando una comunicación serie, mostrando y graficando en tiempo real en el PC los datos recibidos. Tanto en emisor como en receptor se guardan los datos en formato CSV en microSD.</p>
-<p>En este caso los datos de envío y recepción están codificados en formato CSV.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p><a href="http://www.arduinoblocks.com/web/project/1443311" target="_blank" rel="noopener">Código</a> emisor:</p>
+<p>En este caso los datos de envío y recepción están codificados en formato CSV.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p><a href="http://www.steamakersblocks.com/web/project/1443311" target="_blank" rel="noopener">Código</a> emisor:</p>
 <p>En el emisor podemos prescindir si lo deseamos de la pantalla, y por tanto podemos desactivar la función "enviaPantalla", ya que sólo será de utilidad en las pruebas y no en un lanzamiento real.</p>
 <p><img src="ab_emisor_lora_completo.png" alt="cansat emisor completo" title="cansat emisor completo" width="901" height="520" /></p>
-<p><a href="http://www.arduinoblocks.com/web/project/1442613" target="_blank" rel="noopener">Código</a> receptor:</p>
+<p><a href="http://www.steamakersblocks.com/web/project/1442613" target="_blank" rel="noopener">Código</a> receptor:</p>
 <p><img src="ab_receptor_lora.png" alt="codigo receptor lora" title="codigo receptor lora" width="600" height="474" /></p></div>
 </div>
 </div>
