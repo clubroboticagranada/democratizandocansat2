@@ -114,16 +114,32 @@
 </article>
 <article class="iDevice_wrapper pblIdevice em_iDevice em_iDevice_activity" id="id92">
 <div class="iDevice emphasis1" >
-<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programas con datos en formato JSON (recomendado)</h1></header>
+<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programas con datos en formato JSON números (recomendado)</h1></header>
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta92_223_2" class="block iDevice_content">
 <div class="pbl-task-description"><p>Tenemos un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger y enviar datos cada segundo de: tiempo transcurrido, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z. El receptor está compuesto por ESP32 STEAMakers con modulo LoRa y pantalla OLED de 0,96" y está conectado al PC por USB, realizando una comunicación serie, mostrando y graficando en tiempo real en el PC los datos recibidos a través de steamakersblocks. Tanto en emisor como en receptor se guardan los datos en formato CSV en microSD.</p>
-<p>En este caso los datos de envío y recepción están codificados en formato JSON, ya que de esta manera podemos extraer y separar fácilmente la información en recepción para mostrarla en pantalla.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p>Código <a href="http://www.steamakersblocks.com/web/project/1518534" target="_blank" rel="noopener">emisor</a>:</p>
+<p><strong>En este caso los datos de envío y recepción están codificados en formato JSON, siendo numéricos ya que son los que nos ofrecen directamente la lectura de los sensores</strong>. En recepción el formato JSON nos permite extraer y separar fácilmente la información numérica, para mostrarla en pantalla, guardarla en microSD y graficarla en tiempo real.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p>Código <a href="http://www.steamakersblocks.com/web/project/1518534" target="_blank" rel="noopener">emisor</a>:</p>
 <p>En el emisor podemos prescindir si lo deseamos de la pantalla, y por tanto podemos desactivar la función "enviaPantalla", ya que sólo será de utilidad en las pruebas y no en un lanzamiento real.</p>
 <p><img src="ab_emisor_lora_completo_json.png" alt="ab emisor completo json" title="ab emisor completo json" width="800" height="550" /></p>
 <p>Código <a href="http://www.steamakersblocks.com/web/project/1518539" target="_blank" rel="noopener">receptor</a>:</p>
 <p><img src="ab_receptor_lora_completo_json_graficado.png" alt="ab receptor completo json graficado" title="ab receptor completo json graficado" width="800" height="793" /></p></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper pblIdevice em_iDevice em_iDevice_activity" id="id108">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Tarea final programas con datos en formato JSON texto (muy recomendado)</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta108_228_2" class="block iDevice_content">
+<div class="pbl-task-description"><p>Tenemos un emisor compuesto por una ESP32 STEAMakers con módulo LoRa, pantalla oled, sensor BMP280, sensor MPU6050, sensor DHT22 y GPS. Este debe recoger y enviar datos cada segundo de: tiempo transcurrido, latitud, longitud, altitud (bmp280), presión, temperatura (bmp280), humedad, y aceleración en eje Z. El receptor está compuesto por ESP32 STEAMakers con modulo LoRa y pantalla OLED de 0,96" y está conectado al PC por USB, realizando una comunicación serie, mostrando y graficando en tiempo real en el PC los datos recibidos a través de steamakersblocks. Tanto en emisor como en receptor se guardan los datos en formato CSV en microSD.</p>
+<p><strong>En este caso los datos de envío y recepción están codificados en formato JSON en formato texto y con las cifras decimales necesarias, para evitar enviar exceso de datos a través de la comunicación LoRa</strong>. Al enviarlo en formato JSON, en recepción podemos extraer y separar fácilmente la información para mostrarla en pantalla, guardarla en microSD y graficarla en tiempo real.</p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Ayuda" /></div><div class="feedback js-feedback js-hidden"><p><a href="https://www.steamakersblocks.com/web/project/2435485" target="_blank" rel="noopener">Código emisor</a>:</p>
+<p><img src="ab_emisor_lora_completo_json_texto.png" alt="emisor completo texto" title="emisor completo texto" width="1001" height="664" style="font-size: 16.8px;" /></p>
+<p><a href="https://www.steamakersblocks.com/web/project/2435517" target="_blank" rel="noopener">Código receptor</a>:</p>
+<p><img src="ab_receptor_lora_completo_json_texto.png" alt="receptor completo texto" title="receptor completo texto" width="1000" height="1004" /></p></div>
 </div>
 </div>
 </div>
