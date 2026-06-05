@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260605175816CH6P1E</value>
+    <value>20260605182352WUA56Z</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260605175816FES5EF</value>
+    <value>20260605182352TFVKP8</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1780674930392</value>
+    <value>1780675514974</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mq13v7ml-arkr9gbo0</odePageId>
+  <odePageId>page-mq1483ro-xp0eoo1m6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Democratizando CANSAT II. El Retorno</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,10 +125,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7ml-arkr9gbo0</odePageId>
+      <odePageId>page-mq1483ro-xp0eoo1m6</odePageId>
       <odeBlockId>block-mpdorl9u-87vzei48v</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ml-arkr9gbo0</odePageId>
+          <odePageId>page-mq1483ro-xp0eoo1m6</odePageId>
           <odeBlockId>block-mpdorl9u-87vzei48v</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9u-3wehf37n7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -192,7 +192,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+  <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sistemas de control</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -228,10 +228,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+      <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
       <odeBlockId>block-mpdorl9v-cidj8ed64</odeBlockId>
       <blockName>Definición</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -257,7 +257,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+          <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
           <odeBlockId>block-mpdorl9v-cidj8ed64</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9v-1kwjkb3o8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -286,10 +286,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+      <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
       <odeBlockId>block-mpdorl9v-bp1tlpp94</odeBlockId>
       <blockName>Elementos</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -315,7 +315,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+          <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
           <odeBlockId>block-mpdorl9v-bp1tlpp94</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9v-ti5vxi2y7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -346,10 +346,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+      <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
       <odeBlockId>block-mpdorl9v-9ppykr75p</odeBlockId>
       <blockName>Tipos</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -375,7 +375,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7mq-kwprbd5zu</odePageId>
+          <odePageId>page-mq1483s0-adcu6zkdu</odePageId>
           <odeBlockId>block-mpdorl9v-9ppykr75p</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9v-5zpmc3r02</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -407,8 +407,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7mw-ulutybqx4</odePageId>
-  <odeParentPageId>page-mq13v7mq-kwprbd5zu</odeParentPageId>
+  <odePageId>page-mq1483s4-1117o3jdy</odePageId>
+  <odeParentPageId>page-mq1483s0-adcu6zkdu</odeParentPageId>
   <pageName>Elementos de sistema CANSAT</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -443,10 +443,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7mw-ulutybqx4</odePageId>
+      <odePageId>page-mq1483s4-1117o3jdy</odePageId>
       <odeBlockId>block-mpdorl9v-0uh6s2oxp</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -472,7 +472,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7mw-ulutybqx4</odePageId>
+          <odePageId>page-mq1483s4-1117o3jdy</odePageId>
           <odeBlockId>block-mpdorl9v-0uh6s2oxp</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9v-fvxuw0enw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -566,8 +566,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7n3-8vxwo6njr</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483s7-zmk9iautd</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>Software. Steamakersblocks</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -602,10 +602,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7n3-8vxwo6njr</odePageId>
+      <odePageId>page-mq1483s7-zmk9iautd</odePageId>
       <odeBlockId>block-mpdorl9w-3u9mch5o0</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -631,7 +631,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7n3-8vxwo6njr</odePageId>
+          <odePageId>page-mq1483s7-zmk9iautd</odePageId>
           <odeBlockId>block-mpdorl9w-3u9mch5o0</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9w-wyyy2zm2l</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -657,7 +657,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7n3-8vxwo6njr</odePageId>
+      <odePageId>page-mq1483s7-zmk9iautd</odePageId>
       <odeBlockId>block-mpdorl9w-ve8c3qtzi</odeBlockId>
       <blockName>Tarea. Steamakersblocks</blockName>
       <iconName>activity</iconName>
@@ -686,7 +686,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7n3-8vxwo6njr</odePageId>
+          <odePageId>page-mq1483s7-zmk9iautd</odePageId>
           <odeBlockId>block-mpdorl9w-ve8c3qtzi</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9w-03j401wmx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -718,8 +718,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>Elemento de control. ESP32 STEAMakers</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -754,10 +754,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
+      <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
       <odeBlockId>block-mpdorl9w-enyvafaes</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -783,7 +783,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
+          <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
           <odeBlockId>block-mpdorl9w-enyvafaes</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9w-j49atk5cu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -822,10 +822,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
+      <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
       <odeBlockId>block-mpdorl9w-xtr4zje84</odeBlockId>
       <blockName>Características técnicas y pinout</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -851,7 +851,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
+          <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
           <odeBlockId>block-mpdorl9w-xtr4zje84</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9w-jrje81d62</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -905,10 +905,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
+      <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
       <odeBlockId>block-mpdorl9x-h4zz9g48w</odeBlockId>
       <blockName>Para saber más sobre ESP32 STEAMakers</blockName>
-      <iconName></iconName>
+      <iconName>diary_alt</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -934,7 +934,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7n8-h0l9iyb22</odePageId>
+          <odePageId>page-mq1483sb-o4hgxzd9d</odePageId>
           <odeBlockId>block-mpdorl9x-h4zz9g48w</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-dj6f1az9e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -967,8 +967,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483sg-cigz02wmf</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>Pantalla OLED. Conexionado y tarea</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1003,10 +1003,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
+      <odePageId>page-mq1483sg-cigz02wmf</odePageId>
       <odeBlockId>block-mpdorl9x-e9tgka3na</odeBlockId>
       <blockName>Pantalla OLED</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1032,7 +1032,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
+          <odePageId>page-mq1483sg-cigz02wmf</odePageId>
           <odeBlockId>block-mpdorl9x-e9tgka3na</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-6a24gg356</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1058,10 +1058,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
+      <odePageId>page-mq1483sg-cigz02wmf</odePageId>
       <odeBlockId>block-mpdorl9x-s0c849pyy</odeBlockId>
       <blockName>Conexionado</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1087,7 +1087,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
+          <odePageId>page-mq1483sg-cigz02wmf</odePageId>
           <odeBlockId>block-mpdorl9x-s0c849pyy</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-w1mjcbmtq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1113,7 +1113,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
+      <odePageId>page-mq1483sg-cigz02wmf</odePageId>
       <odeBlockId>block-mpdorl9x-1shxow84k</odeBlockId>
       <blockName>Tarea OLED</blockName>
       <iconName>activity</iconName>
@@ -1142,7 +1142,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nh-zqjgtsl2f</odePageId>
+          <odePageId>page-mq1483sg-cigz02wmf</odePageId>
           <odeBlockId>block-mpdorl9x-1shxow84k</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-vlvueqqe9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1171,8 +1171,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483sj-eup10xly9</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>BMP280. Conexionado y tarea</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1207,10 +1207,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
+      <odePageId>page-mq1483sj-eup10xly9</odePageId>
       <odeBlockId>block-mpdorl9x-zugqmkudd</odeBlockId>
       <blockName>Sensor BMP280</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1236,7 +1236,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
+          <odePageId>page-mq1483sj-eup10xly9</odePageId>
           <odeBlockId>block-mpdorl9x-zugqmkudd</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-t5pm8bseh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1262,10 +1262,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
+      <odePageId>page-mq1483sj-eup10xly9</odePageId>
       <odeBlockId>block-mpdorl9x-oloirvfsl</odeBlockId>
       <blockName>Conexionado</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1291,7 +1291,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
+          <odePageId>page-mq1483sj-eup10xly9</odePageId>
           <odeBlockId>block-mpdorl9x-oloirvfsl</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-uguxa25r2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1317,7 +1317,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
+      <odePageId>page-mq1483sj-eup10xly9</odePageId>
       <odeBlockId>block-mpdorl9x-yllj2u8lc</odeBlockId>
       <blockName>Tarea. Medida de Presión, altitud y temperatura</blockName>
       <iconName>activity</iconName>
@@ -1346,7 +1346,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nl-8v6y0wehq</odePageId>
+          <odePageId>page-mq1483sj-eup10xly9</odePageId>
           <odeBlockId>block-mpdorl9x-yllj2u8lc</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-4hjojd36t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1374,8 +1374,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483sl-psgogbt64</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>MPU6050. Conexionado y tarea</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1410,10 +1410,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
+      <odePageId>page-mq1483sl-psgogbt64</odePageId>
       <odeBlockId>block-mpdorl9x-zeisjh9jx</odeBlockId>
       <blockName>Sensor MPU6050</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1439,7 +1439,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
+          <odePageId>page-mq1483sl-psgogbt64</odePageId>
           <odeBlockId>block-mpdorl9x-zeisjh9jx</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-j2o3lgrn7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1465,10 +1465,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
+      <odePageId>page-mq1483sl-psgogbt64</odePageId>
       <odeBlockId>block-mpdorl9x-9lpqs8dx9</odeBlockId>
       <blockName>Conexionado</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1494,7 +1494,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
+          <odePageId>page-mq1483sl-psgogbt64</odePageId>
           <odeBlockId>block-mpdorl9x-9lpqs8dx9</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-1yz0z09ie</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1521,7 +1521,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
+      <odePageId>page-mq1483sl-psgogbt64</odePageId>
       <odeBlockId>block-mpdorl9x-dpao4dadr</odeBlockId>
       <blockName>Tarea. Medida de aceleraciones</blockName>
       <iconName>activity</iconName>
@@ -1550,7 +1550,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7no-l6osz0e4j</odePageId>
+          <odePageId>page-mq1483sl-psgogbt64</odePageId>
           <odeBlockId>block-mpdorl9x-dpao4dadr</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9x-2fmhj59ps</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1578,8 +1578,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483sm-5unny9m61</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>DHT22. Conexionado y tarea</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1614,10 +1614,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
+      <odePageId>page-mq1483sm-5unny9m61</odePageId>
       <odeBlockId>block-mpdorl9y-kodmggrjk</odeBlockId>
       <blockName>Sensor DHT22</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1643,7 +1643,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
+          <odePageId>page-mq1483sm-5unny9m61</odePageId>
           <odeBlockId>block-mpdorl9y-kodmggrjk</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-2ks1c16eb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1669,10 +1669,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
+      <odePageId>page-mq1483sm-5unny9m61</odePageId>
       <odeBlockId>block-mpdorl9y-otpcleagi</odeBlockId>
       <blockName>Conexionado</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1698,7 +1698,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
+          <odePageId>page-mq1483sm-5unny9m61</odePageId>
           <odeBlockId>block-mpdorl9y-otpcleagi</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-1q2b7g5dv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1724,7 +1724,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
+      <odePageId>page-mq1483sm-5unny9m61</odePageId>
       <odeBlockId>block-mpdorl9y-t11cu8m95</odeBlockId>
       <blockName>Tarea. Medida de temperatura y humedad</blockName>
       <iconName>activity</iconName>
@@ -1753,7 +1753,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nt-gmlit5a4a</odePageId>
+          <odePageId>page-mq1483sm-5unny9m61</odePageId>
           <odeBlockId>block-mpdorl9y-t11cu8m95</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-e5uirweyy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1781,8 +1781,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7nx-si7rntw91</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483so-ghjd791rt</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>GPS. Conexionado y tarea</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1817,10 +1817,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7nx-si7rntw91</odePageId>
+      <odePageId>page-mq1483so-ghjd791rt</odePageId>
       <odeBlockId>block-mpdorl9y-oxvio5ptt</odeBlockId>
       <blockName>GPS</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1846,7 +1846,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nx-si7rntw91</odePageId>
+          <odePageId>page-mq1483so-ghjd791rt</odePageId>
           <odeBlockId>block-mpdorl9y-oxvio5ptt</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-l8pgqn5sy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1872,10 +1872,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nx-si7rntw91</odePageId>
+      <odePageId>page-mq1483so-ghjd791rt</odePageId>
       <odeBlockId>block-mpdorl9y-jghyt0qmk</odeBlockId>
       <blockName>Conexionado</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1901,7 +1901,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nx-si7rntw91</odePageId>
+          <odePageId>page-mq1483so-ghjd791rt</odePageId>
           <odeBlockId>block-mpdorl9y-jghyt0qmk</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-lpoe2mawd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1927,7 +1927,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nx-si7rntw91</odePageId>
+      <odePageId>page-mq1483so-ghjd791rt</odePageId>
       <odeBlockId>block-mpdorl9y-379tw98s8</odeBlockId>
       <blockName>Tarea. Posicionamiento GPS</blockName>
       <iconName>activity</iconName>
@@ -1956,7 +1956,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nx-si7rntw91</odePageId>
+          <odePageId>page-mq1483so-ghjd791rt</odePageId>
           <odeBlockId>block-mpdorl9y-379tw98s8</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-j2nnx09n4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1984,8 +1984,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
-  <odeParentPageId>page-mq13v7mw-ulutybqx4</odeParentPageId>
+  <odePageId>page-mq1483st-wc9oijwa4</odePageId>
+  <odeParentPageId>page-mq1483s4-1117o3jdy</odeParentPageId>
   <pageName>Módulo LoRa. Órdenes, Conexionado y tarea</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2020,10 +2020,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+      <odePageId>page-mq1483st-wc9oijwa4</odePageId>
       <odeBlockId>block-mpdorl9y-26xihnblm</odeBlockId>
       <blockName>Módulo Lora - LoRaWan. Comunicaciones LoRa</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2049,7 +2049,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+          <odePageId>page-mq1483st-wc9oijwa4</odePageId>
           <odeBlockId>block-mpdorl9y-26xihnblm</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-laoswigr9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2075,10 +2075,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+      <odePageId>page-mq1483st-wc9oijwa4</odePageId>
       <odeBlockId>block-mpdorl9y-cjjo407pp</odeBlockId>
       <blockName>Ordenes LoRa en arduinoblocks</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2104,7 +2104,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+          <odePageId>page-mq1483st-wc9oijwa4</odePageId>
           <odeBlockId>block-mpdorl9y-cjjo407pp</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9y-h2cws4xhi</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2163,10 +2163,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+      <odePageId>page-mq1483st-wc9oijwa4</odePageId>
       <odeBlockId>block-mpdorl9z-ce2uswsat</odeBlockId>
       <blockName>Conexionado</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2192,7 +2192,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+          <odePageId>page-mq1483st-wc9oijwa4</odePageId>
           <odeBlockId>block-mpdorl9z-ce2uswsat</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9z-xzhqmx2y1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2218,7 +2218,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+      <odePageId>page-mq1483st-wc9oijwa4</odePageId>
       <odeBlockId>block-mpdorl9z-p82vjj6t1</odeBlockId>
       <blockName>Tarea. Conexionado para primera comunicación LoRa</blockName>
       <iconName>activity</iconName>
@@ -2247,7 +2247,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+          <odePageId>page-mq1483st-wc9oijwa4</odePageId>
           <odeBlockId>block-mpdorl9z-p82vjj6t1</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9z-1t65ikfcz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2275,10 +2275,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+      <odePageId>page-mq1483st-wc9oijwa4</odePageId>
       <odeBlockId>block-mpdorl9z-5zngfmlg9</odeBlockId>
       <blockName>Para saber más</blockName>
-      <iconName></iconName>
+      <iconName>diary_alt</iconName>
       <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2304,7 +2304,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7nz-u44n7b7b0</odePageId>
+          <odePageId>page-mq1483st-wc9oijwa4</odePageId>
           <odeBlockId>block-mpdorl9z-5zngfmlg9</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9z-yc569syj2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2331,8 +2331,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
-  <odeParentPageId>page-mq13v7nz-u44n7b7b0</odeParentPageId>
+  <odePageId>page-mq1483sx-stdwp5n19</odePageId>
+  <odeParentPageId>page-mq1483st-wc9oijwa4</odeParentPageId>
   <pageName>Saber más sobre comunicaciones LoRa P2P</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2367,10 +2367,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
+      <odePageId>page-mq1483sx-stdwp5n19</odePageId>
       <odeBlockId>block-mpdorl9z-gz6auqdgu</odeBlockId>
       <blockName>LoRa. Tipo de señal</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2396,7 +2396,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
+          <odePageId>page-mq1483sx-stdwp5n19</odePageId>
           <odeBlockId>block-mpdorl9z-gz6auqdgu</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9z-yzeltgpvf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2428,10 +2428,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
+      <odePageId>page-mq1483sx-stdwp5n19</odePageId>
       <odeBlockId>block-mpdorl9z-u72xje7q8</odeBlockId>
       <blockName>Parámetros de transmisión en LoRa P2P</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2457,7 +2457,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
+          <odePageId>page-mq1483sx-stdwp5n19</odePageId>
           <odeBlockId>block-mpdorl9z-u72xje7q8</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9z-zvtibcwzr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2521,10 +2521,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
+      <odePageId>page-mq1483sx-stdwp5n19</odePageId>
       <odeBlockId>block-mpdorl9z-3h77mdl7a</odeBlockId>
       <blockName>Comunicación efectiva entre dispositivos LoRa</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2550,7 +2550,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o2-7q38bz72x</odePageId>
+          <odePageId>page-mq1483sx-stdwp5n19</odePageId>
           <odeBlockId>block-mpdorl9z-3h77mdl7a</odeBlockId>
           <odeIdeviceId>idevice-mpdorl9z-mfywjg2hj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2591,8 +2591,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7o4-sx2j94so4</odePageId>
-  <odeParentPageId>page-mq13v7mq-kwprbd5zu</odeParentPageId>
+  <odePageId>page-mq1483t0-hqe93d139</odePageId>
+  <odeParentPageId>page-mq1483s0-adcu6zkdu</odeParentPageId>
   <pageName>Primera comunicación LoRa</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2627,10 +2627,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7o4-sx2j94so4</odePageId>
+      <odePageId>page-mq1483t0-hqe93d139</odePageId>
       <odeBlockId>block-mpdorla0-0mepnr6ax</odeBlockId>
       <blockName>Reto resuelto primera comunicación con LoRa</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2656,7 +2656,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o4-sx2j94so4</odePageId>
+          <odePageId>page-mq1483t0-hqe93d139</odePageId>
           <odeBlockId>block-mpdorla0-0mepnr6ax</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-z7msta26p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2685,8 +2685,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7o5-1yj6kyduj</odePageId>
-  <odeParentPageId>page-mq13v7o4-sx2j94so4</odeParentPageId>
+  <odePageId>page-mq1483t1-31mjysk8o</odePageId>
+  <odeParentPageId>page-mq1483t0-hqe93d139</odeParentPageId>
   <pageName>Conexionado</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2721,10 +2721,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7o5-1yj6kyduj</odePageId>
+      <odePageId>page-mq1483t1-31mjysk8o</odePageId>
       <odeBlockId>block-mpdorla0-8wp64ltfk</odeBlockId>
       <blockName>Emisor</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2750,7 +2750,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o5-1yj6kyduj</odePageId>
+          <odePageId>page-mq1483t1-31mjysk8o</odePageId>
           <odeBlockId>block-mpdorla0-8wp64ltfk</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-jfjn6zhnt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2776,10 +2776,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7o5-1yj6kyduj</odePageId>
+      <odePageId>page-mq1483t1-31mjysk8o</odePageId>
       <odeBlockId>block-mpdorla0-8yuc3n6hl</odeBlockId>
       <blockName>Receptor</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2805,7 +2805,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o5-1yj6kyduj</odePageId>
+          <odePageId>page-mq1483t1-31mjysk8o</odePageId>
           <odeBlockId>block-mpdorla0-8yuc3n6hl</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-knz6uqzfk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2832,8 +2832,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
-  <odeParentPageId>page-mq13v7o4-sx2j94so4</odeParentPageId>
+  <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
+  <odeParentPageId>page-mq1483t0-hqe93d139</odeParentPageId>
   <pageName>Programas con datos JSON (recomendado)</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2868,10 +2868,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+      <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
       <odeBlockId>block-mpdorla0-uxq2xyis3</odeBlockId>
       <blockName>Formato JSON</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2897,7 +2897,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+          <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
           <odeBlockId>block-mpdorla0-uxq2xyis3</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-z5uj9gsc1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2933,10 +2933,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+      <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
       <odeBlockId>block-mpdorla0-p10nic9nv</odeBlockId>
       <blockName>Emisor LoRa JSON</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2962,7 +2962,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+          <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
           <odeBlockId>block-mpdorla0-p10nic9nv</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-wu6e28ase</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2989,10 +2989,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+      <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
       <odeBlockId>block-mpdorla0-z0asnxw6v</odeBlockId>
       <blockName>Receptor LoRa JSON</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3018,7 +3018,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+          <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
           <odeBlockId>block-mpdorla0-z0asnxw6v</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-t44xjhf8o</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3046,10 +3046,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+      <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
       <odeBlockId>block-mpdorla0-csyu43364</odeBlockId>
       <blockName>Para saber más</blockName>
-      <iconName></iconName>
+      <iconName>diary_alt</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3075,7 +3075,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7o7-qa0j44j4m</odePageId>
+          <odePageId>page-mq1483t3-vcl21hbzh</odePageId>
           <odeBlockId>block-mpdorla0-csyu43364</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-j0i9ykiiy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3104,8 +3104,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7oc-3p80n8kfo</odePageId>
-  <odeParentPageId>page-mq13v7o7-qa0j44j4m</odeParentPageId>
+  <odePageId>page-mq1483t5-jra91w59b</odePageId>
+  <odeParentPageId>page-mq1483t3-vcl21hbzh</odeParentPageId>
   <pageName>Tratamiento de datos con steamakersblocks</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3140,10 +3140,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7oc-3p80n8kfo</odePageId>
+      <odePageId>page-mq1483t5-jra91w59b</odePageId>
       <odeBlockId>block-mpdorla0-mv8nuwl1q</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3169,7 +3169,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oc-3p80n8kfo</odePageId>
+          <odePageId>page-mq1483t5-jra91w59b</odePageId>
           <odeBlockId>block-mpdorla0-mv8nuwl1q</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-6oajml46y</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3203,8 +3203,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7oe-5gs1haxlr</odePageId>
-  <odeParentPageId>page-mq13v7o4-sx2j94so4</odeParentPageId>
+  <odePageId>page-mq1483t7-bluatp6tw</odePageId>
+  <odeParentPageId>page-mq1483t0-hqe93d139</odeParentPageId>
   <pageName>Programas con datos CSV</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3239,10 +3239,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7oe-5gs1haxlr</odePageId>
+      <odePageId>page-mq1483t7-bluatp6tw</odePageId>
       <odeBlockId>block-mpdorla0-0zebna3ub</odeBlockId>
       <blockName>Programa emisor</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3268,7 +3268,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oe-5gs1haxlr</odePageId>
+          <odePageId>page-mq1483t7-bluatp6tw</odePageId>
           <odeBlockId>block-mpdorla0-0zebna3ub</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-lo5cevcpw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3294,10 +3294,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7oe-5gs1haxlr</odePageId>
+      <odePageId>page-mq1483t7-bluatp6tw</odePageId>
       <odeBlockId>block-mpdorla0-h5g0ak4sj</odeBlockId>
       <blockName>Programa receptor</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3323,7 +3323,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oe-5gs1haxlr</odePageId>
+          <odePageId>page-mq1483t7-bluatp6tw</odePageId>
           <odeBlockId>block-mpdorla0-h5g0ak4sj</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-kq58wr0qb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3351,8 +3351,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7og-hhe8d82it</odePageId>
-  <odeParentPageId>page-mq13v7oe-5gs1haxlr</odeParentPageId>
+  <odePageId>page-mq1483tb-o2l6zqqlx</odePageId>
+  <odeParentPageId>page-mq1483t7-bluatp6tw</odeParentPageId>
   <pageName>Tratamiento de datos csv</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3387,10 +3387,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7og-hhe8d82it</odePageId>
+      <odePageId>page-mq1483tb-o2l6zqqlx</odePageId>
       <odeBlockId>block-mpdorla0-so1dx645g</odeBlockId>
       <blockName>Tratamiento de datos en el ordenador</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3416,7 +3416,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7og-hhe8d82it</odePageId>
+          <odePageId>page-mq1483tb-o2l6zqqlx</odePageId>
           <odeBlockId>block-mpdorla0-so1dx645g</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-q9yf8x2u1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3444,10 +3444,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7og-hhe8d82it</odePageId>
+      <odePageId>page-mq1483tb-o2l6zqqlx</odePageId>
       <odeBlockId>block-mpdorla0-uvwd3rlkg</odeBlockId>
       <blockName>Tratamiento de datos con hoja de cálculo</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3473,7 +3473,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7og-hhe8d82it</odePageId>
+          <odePageId>page-mq1483tb-o2l6zqqlx</odePageId>
           <odeBlockId>block-mpdorla0-uvwd3rlkg</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-zfvcy71vp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3501,8 +3501,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7oh-jccjb944h</odePageId>
-  <odeParentPageId>page-mq13v7mq-kwprbd5zu</odeParentPageId>
+  <odePageId>page-mq1483te-ooni34sl9</odePageId>
+  <odeParentPageId>page-mq1483s0-adcu6zkdu</odeParentPageId>
   <pageName>Reto Final. Ahora sí CANSAT</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3537,7 +3537,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+      <odePageId>page-mq1483te-ooni34sl9</odePageId>
       <odeBlockId>block-mpdorla0-uugdmq4q0</odeBlockId>
       <blockName>Tarea final conexionado</blockName>
       <iconName>activity</iconName>
@@ -3566,7 +3566,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+          <odePageId>page-mq1483te-ooni34sl9</odePageId>
           <odeBlockId>block-mpdorla0-uugdmq4q0</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-ymf25hnoq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3595,7 +3595,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+      <odePageId>page-mq1483te-ooni34sl9</odePageId>
       <odeBlockId>block-mpdorla0-rfsfyn4bv</odeBlockId>
       <blockName>Tarea final programas con datos en formato JSON números (recomendado)</blockName>
       <iconName>activity</iconName>
@@ -3624,7 +3624,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+          <odePageId>page-mq1483te-ooni34sl9</odePageId>
           <odeBlockId>block-mpdorla0-rfsfyn4bv</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-dx72srskv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3654,7 +3654,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+      <odePageId>page-mq1483te-ooni34sl9</odePageId>
       <odeBlockId>block-mpdorla0-i95vo5i8n</odeBlockId>
       <blockName>Tarea final programas con datos en formato JSON texto (muy recomendado)</blockName>
       <iconName>activity</iconName>
@@ -3683,7 +3683,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+          <odePageId>page-mq1483te-ooni34sl9</odePageId>
           <odeBlockId>block-mpdorla0-i95vo5i8n</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-4i7436edk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3712,7 +3712,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+      <odePageId>page-mq1483te-ooni34sl9</odePageId>
       <odeBlockId>block-mpdorla0-q9uwbcxta</odeBlockId>
       <blockName>Tarea final programas con datos en formato CSV</blockName>
       <iconName>activity</iconName>
@@ -3741,7 +3741,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oh-jccjb944h</odePageId>
+          <odePageId>page-mq1483te-ooni34sl9</odePageId>
           <odeBlockId>block-mpdorla0-q9uwbcxta</odeBlockId>
           <odeIdeviceId>idevice-mpdorla0-4d41yj8li</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3773,8 +3773,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
-  <odeParentPageId>page-mq13v7mq-kwprbd5zu</odeParentPageId>
+  <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
+  <odeParentPageId>page-mq1483s0-adcu6zkdu</odeParentPageId>
   <pageName>Alimentación y consumo</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3809,10 +3809,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+      <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
       <odeBlockId>block-mpdorla1-1yy7vhloy</odeBlockId>
       <blockName>Alimentación</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3838,7 +3838,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+          <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
           <odeBlockId>block-mpdorla1-1yy7vhloy</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-saawnpu54</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3865,10 +3865,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+      <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
       <odeBlockId>block-mpdorla1-ehjfdcy05</odeBlockId>
       <blockName>Sensores integrados. Sensor de energía</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3894,7 +3894,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+          <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
           <odeBlockId>block-mpdorla1-ehjfdcy05</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-y9da4cnyj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3920,10 +3920,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+      <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
       <odeBlockId>block-mpdorla1-c9i1ps15s</odeBlockId>
       <blockName>Cálculo de duración de batería</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3949,7 +3949,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+          <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
           <odeBlockId>block-mpdorla1-c9i1ps15s</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-w4bmj3ott</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3979,7 +3979,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+      <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
       <odeBlockId>block-mpdorla1-9n05gxjti</odeBlockId>
       <blockName>Medición de potencia y cálculo de duración de batería</blockName>
       <iconName>activity</iconName>
@@ -4008,7 +4008,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ok-nsbrt39lq</odePageId>
+          <odePageId>page-mq1483th-w5vxjhvpa</odePageId>
           <odeBlockId>block-mpdorla1-9n05gxjti</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-yh6az4mqu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4038,8 +4038,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7om-oh7w0bi49</odePageId>
-  <odeParentPageId>page-mq13v7mq-kwprbd5zu</odeParentPageId>
+  <odePageId>page-mq1483tj-03pgwl6tp</odePageId>
+  <odeParentPageId>page-mq1483s0-adcu6zkdu</odeParentPageId>
   <pageName>Cansat Fake</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -4074,10 +4074,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7om-oh7w0bi49</odePageId>
+      <odePageId>page-mq1483tj-03pgwl6tp</odePageId>
       <odeBlockId>block-mpdorla1-tudo7d77a</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4103,7 +4103,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7om-oh7w0bi49</odePageId>
+          <odePageId>page-mq1483tj-03pgwl6tp</odePageId>
           <odeBlockId>block-mpdorla1-tudo7d77a</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-cepw9yno1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4138,10 +4138,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7om-oh7w0bi49</odePageId>
+      <odePageId>page-mq1483tj-03pgwl6tp</odePageId>
       <odeBlockId>block-mpdorla1-mfgl0ko2j</odeBlockId>
       <blockName>Fichero en microSD en emisor</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4167,7 +4167,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7om-oh7w0bi49</odePageId>
+          <odePageId>page-mq1483tj-03pgwl6tp</odePageId>
           <odeBlockId>block-mpdorla1-mfgl0ko2j</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-wbgustmsd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4195,7 +4195,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7oo-jxhlhdyi2</odePageId>
+  <odePageId>page-mq1483tk-2zgwhw16w</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Estructura 3D</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -4231,10 +4231,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7oo-jxhlhdyi2</odePageId>
+      <odePageId>page-mq1483tk-2zgwhw16w</odePageId>
       <odeBlockId>block-mpdorla1-asqotz5pm</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4260,7 +4260,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oo-jxhlhdyi2</odePageId>
+          <odePageId>page-mq1483tk-2zgwhw16w</odePageId>
           <odeBlockId>block-mpdorla1-asqotz5pm</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-wgrnis0oh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4287,8 +4287,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
-  <odeParentPageId>page-mq13v7oo-jxhlhdyi2</odeParentPageId>
+  <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
+  <odeParentPageId>page-mq1483tk-2zgwhw16w</odeParentPageId>
   <pageName>Estructura 3D Pablo Moraga</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -4323,10 +4323,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+      <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
       <odeBlockId>block-mpdorla1-v4q38vyfs</odeBlockId>
       <blockName>Estructura 1 Pablo Moraga</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4352,13 +4352,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+          <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
           <odeBlockId>block-mpdorla1-v4q38vyfs</odeBlockId>
           <odeIdeviceId>idevice-mpdorla1-hmzsow6iu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado por <em>Pablo Moraga</em> con la herramienta Tinkercad. Es un diseño de cuerpo perforado con hueco para botón de powerbank, con tapas roscadas y tapa superior con alojamiento para antena GPS. Las tapa superior además, está diseñadas para alojar las cuerdas del paracaídas.</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado por <em>Pablo Moraga</em> con la herramienta Tinkercad. Es un diseño de cuerpo perforado con hueco para botón de powerbank, con tapas roscadas y tapa superior con alojamiento para antena GPS. Las tapa superior además, está diseñadas para alojar las cuerdas del paracaídas.</p>
 <p>Consta de los siguientes elementos:</p>
-<table style="width: 62.5223%; height: 342px;" border="1">
+<table border="1" class="exe-table" style="width: 62.5223%; height: 342px; float: left;">
 <tbody>
 <tr style="height: 25px;">
 <td style="width: 19.6051%; text-align: center; height: 25px;"><strong>Pieza</strong></td>
@@ -4367,7 +4368,7 @@
 <tr style="height: 287px;">
 <td style="width: 19.6051%; text-align: center; height: 287px;">
 <p>Cuerpo</p>
-<p style="text-align: left;"></p>
+<p style="text-align: left;"><br /></p>
 </td>
 <td style="width: 42.9198%; height: 287px; text-align: center;"><img src="{{context_path}}/content/resources/Captura01.png" alt="estructura cuerpo" title="estructura cuerpo" width="265" height="413" /><img src="{{context_path}}/content/resources/Captura02.png" alt="" width="328" height="455" /></td>
 </tr>
@@ -4375,21 +4376,22 @@
 <td style="width: 19.6051%; height: 10px;">
 <p style="text-align: center;">Tapa superior</p>
 <p style="text-align: center;">GPS (Modelo normal y Keyestudio)</p>
-<p></p>
+<p><br /></p>
 </td>
 <td style="width: 42.9198%; height: 10px;"><img src="{{context_path}}/content/resources/Captura03.png" alt="" width="286" height="259" style="float: left;" /><img src="{{context_path}}/content/resources/Captura05.png" alt="" width="311" height="259" style="display: block; margin-left: auto; margin-right: auto;" /></td>
 </tr>
 <tr style="height: 0px;">
 <td style="width: 19.6051%; height: 10px;">
 <p style="text-align: center;">Tapa inferior</p>
-<p></p>
+<p><br /></p>
 </td>
 <td style="width: 42.9198%; height: 10px;"><img src="{{context_path}}/content/resources/Captura04.png" alt="" width="365" height="252" style="display: block; margin-left: auto; margin-right: auto;" /></td>
 </tr>
 </tbody>
 </table>
-<p></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado por <em>Pablo Moraga</em> con la herramienta Tinkercad. Es un diseño de cuerpo perforado con hueco para botón de powerbank, con tapas roscadas y tapa superior con alojamiento para antena GPS. Las tapa superior además, está diseñadas para alojar las cuerdas del paracaídas.</p>\n<p>Consta de los siguientes elementos:</p>\n<table style=\"width: 62.5223%; height: 342px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 42.9198%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 287px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 287px;\">\n<p>Cuerpo</p>\n<p style=\"text-align: left;\"></p>\n</td>\n<td style=\"width: 42.9198%; height: 287px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura01.png\" alt=\"estructura cuerpo\" title=\"estructura cuerpo\" width=\"265\" height=\"413\" /><img src=\"{{context_path}}/content/resources/Captura02.png\" alt=\"\" width=\"328\" height=\"455\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa superior</p>\n<p style=\"text-align: center;\">GPS (Modelo normal y Keyestudio)</p>\n<p></p>\n</td>\n<td style=\"width: 42.9198%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Captura03.png\" alt=\"\" width=\"286\" height=\"259\" style=\"float: left;\" /><img src=\"{{context_path}}/content/resources/Captura05.png\" alt=\"\" width=\"311\" height=\"259\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 0px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa inferior</p>\n<p></p>\n</td>\n<td style=\"width: 42.9198%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Captura04.png\" alt=\"\" width=\"365\" height=\"252\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>\n<p></p>"}]]></jsonProperties>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpdorla1-hmzsow6iu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado por <em>Pablo Moraga</em> con la herramienta Tinkercad. Es un diseño de cuerpo perforado con hueco para botón de powerbank, con tapas roscadas y tapa superior con alojamiento para antena GPS. Las tapa superior además, está diseñadas para alojar las cuerdas del paracaídas.</p>\n<p>Consta de los siguientes elementos:</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 62.5223%; height: 342px; float: left;\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 42.9198%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 287px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 287px;\">\n<p>Cuerpo</p>\n<p style=\"text-align: left;\"><br /></p>\n</td>\n<td style=\"width: 42.9198%; height: 287px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura01.png\" alt=\"estructura cuerpo\" title=\"estructura cuerpo\" width=\"265\" height=\"413\" /><img src=\"{{context_path}}/content/resources/Captura02.png\" alt=\"\" width=\"328\" height=\"455\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa superior</p>\n<p style=\"text-align: center;\">GPS (Modelo normal y Keyestudio)</p>\n<p><br /></p>\n</td>\n<td style=\"width: 42.9198%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Captura03.png\" alt=\"\" width=\"286\" height=\"259\" style=\"float: left;\" /><img src=\"{{context_path}}/content/resources/Captura05.png\" alt=\"\" width=\"311\" height=\"259\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 0px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa inferior</p>\n<p><br /></p>\n</td>\n<td style=\"width: 42.9198%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Captura04.png\" alt=\"\" width=\"365\" height=\"252\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -4409,10 +4411,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+      <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
       <odeBlockId>block-mpdorla2-kie5qot0j</odeBlockId>
       <blockName>Ficheros STL Estructura 1</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4438,7 +4440,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+          <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
           <odeBlockId>block-mpdorla2-kie5qot0j</odeBlockId>
           <odeIdeviceId>idevice-mpdorla2-625tvfa7u</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4463,10 +4465,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+      <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
       <odeBlockId>block-mpdorla2-71mjd4mze</odeBlockId>
       <blockName>Estructura 2 Pablo Moraga</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4492,13 +4494,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+          <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
           <odeBlockId>block-mpdorla2-71mjd4mze</odeBlockId>
           <odeIdeviceId>idevice-mpdorla2-9svlgn2q6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>La filosofía de diseño es como la anterior pero presenta aditamentos como: alojamiento para bateria li-on formato 9V y microinterruptor.</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La filosofía de diseño es como la anterior pero presenta aditamentos como: alojamiento para bateria li-on formato 9V y microinterruptor.</p>
 <p>Consta de las siguientes elementos:</p>
-<table style="width: 57.3942%; height: 494px;" border="1">
+<table border="1" class="exe-table" style="width: 57.3942%; height: 494px; float: left;">
 <tbody>
 <tr style="height: 25px;">
 <td style="width: 19.0445%; text-align: center; height: 25px;"><strong>Pieza</strong></td>
@@ -4517,8 +4520,9 @@
 <td style="width: 38.3508%; height: 10px;"><img src="{{context_path}}/content/resources/CanSAT_25_C.png" alt="tapa superior" title="tapa superior" width="351" height="333" style="display: block; margin-left: auto; margin-right: auto;" /></td>
 </tr>
 </tbody>
-</table>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>La filosofía de diseño es como la anterior pero presenta aditamentos como: alojamiento para bateria li-on formato 9V y microinterruptor.</p>\n<p>Consta de las siguientes elementos:</p>\n<table style=\"width: 57.3942%; height: 494px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 19.0445%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 38.3508%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 449px;\">\n<td style=\"width: 19.0445%; text-align: center; height: 449px;\">Cuerpo</td>\n<td style=\"width: 38.3508%; height: 449px;\"><img src=\"{{context_path}}/content/resources/CanSAT_25_A.png\" alt=\"cuerpo\" width=\"350\" height=\"450\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"cuerpo\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.0445%; height: 10px; text-align: center;\">Tapa inferior</td>\n<td style=\"width: 38.3508%; height: 10px;\"><img src=\"{{context_path}}/content/resources/CanSAT_25_B.png\" alt=\"tapa inferior\" width=\"401\" height=\"339\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"tapa inferior\" /></td>\n</tr>\n<tr style=\"height: 0px;\">\n<td style=\"width: 19.0445%; height: 10px; text-align: center;\">Tapa superior</td>\n<td style=\"width: 38.3508%; height: 10px;\"><img src=\"{{context_path}}/content/resources/CanSAT_25_C.png\" alt=\"tapa superior\" title=\"tapa superior\" width=\"351\" height=\"333\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpdorla2-9svlgn2q6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La filosofía de diseño es como la anterior pero presenta aditamentos como: alojamiento para bateria li-on formato 9V y microinterruptor.</p>\n<p>Consta de las siguientes elementos:</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 57.3942%; height: 494px; float: left;\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 19.0445%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 38.3508%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 449px;\">\n<td style=\"width: 19.0445%; text-align: center; height: 449px;\">Cuerpo</td>\n<td style=\"width: 38.3508%; height: 449px;\"><img src=\"{{context_path}}/content/resources/CanSAT_25_A.png\" alt=\"cuerpo\" width=\"350\" height=\"450\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"cuerpo\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.0445%; height: 10px; text-align: center;\">Tapa inferior</td>\n<td style=\"width: 38.3508%; height: 10px;\"><img src=\"{{context_path}}/content/resources/CanSAT_25_B.png\" alt=\"tapa inferior\" width=\"401\" height=\"339\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"tapa inferior\" /></td>\n</tr>\n<tr style=\"height: 0px;\">\n<td style=\"width: 19.0445%; height: 10px; text-align: center;\">Tapa superior</td>\n<td style=\"width: 38.3508%; height: 10px;\"><img src=\"{{context_path}}/content/resources/CanSAT_25_C.png\" alt=\"tapa superior\" title=\"tapa superior\" width=\"351\" height=\"333\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -4538,10 +4542,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+      <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
       <odeBlockId>block-mpdorla2-pepllc2yr</odeBlockId>
       <blockName>Ficheros STL Estructura 2</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4567,7 +4571,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ot-214e2k0nk</odePageId>
+          <odePageId>page-mq1483tm-kw1cz3i1u</odePageId>
           <odeBlockId>block-mpdorla2-pepllc2yr</odeBlockId>
           <odeIdeviceId>idevice-mpdorla2-e3c0djqa0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4594,8 +4598,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7ov-czklplj6i</odePageId>
-  <odeParentPageId>page-mq13v7oo-jxhlhdyi2</odeParentPageId>
+  <odePageId>page-mq1483tr-nipfesidw</odePageId>
+  <odeParentPageId>page-mq1483tk-2zgwhw16w</odeParentPageId>
   <pageName>Estructura 3D VegaSteam</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -4630,10 +4634,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7ov-czklplj6i</odePageId>
+      <odePageId>page-mq1483tr-nipfesidw</odePageId>
       <odeBlockId>block-mpdorla2-22kp2z3ln</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4659,13 +4663,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ov-czklplj6i</odePageId>
+          <odePageId>page-mq1483tr-nipfesidw</odePageId>
           <odeBlockId>block-mpdorla2-22kp2z3ln</odeBlockId>
           <odeIdeviceId>idevice-mpdorla2-zyojltjhv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>La estructura 3D del emisor CANSAT (satélite) de la propuesta de democratizando Cansat, está basada en el diseño realizado por <em>David Morales Arellano</em> miembro del equipo <em>VegaSteam</em> del <em>IES Federico García Lorca de Churriana de la Vega</em> (<em>Granada</em>).</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La estructura 3D del emisor CANSAT (satélite) de la propuesta de democratizando Cansat, está basada en el diseño realizado por <em>David Morales Arellano</em> miembro del equipo <em>VegaSteam</em> del <em>IES Federico García Lorca de Churriana de la Vega</em> (<em>Granada</em>).</p>
 <p>Ha sido diseñada para un fácil ensamblaje y cambio de componentes electrónicos en su interior, y consta de tres partes bien diferenciadas:</p>
-<table border="1" style="width: 41.2938%; height: 576px;">
+<table border="1" class="exe-table" style="width: 41.2938%; height: 576px; float: left;">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 24.9665%; text-align: center; height: 18px;"><strong>Pieza</strong></td>
@@ -4700,9 +4705,10 @@
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>La estructura 3D del emisor CANSAT (satélite) de la propuesta de democratizando Cansat, está basada en el diseño realizado por <em>David Morales Arellano</em> miembro del equipo <em>VegaSteam</em> del <em>IES Federico García Lorca de Churriana de la Vega</em> (<em>Granada</em>).</p>\n<p>Ha sido diseñada para un fácil ensamblaje y cambio de componentes electrónicos en su interior, y consta de tres partes bien diferenciadas:</p>\n<table border=\"1\" style=\"width: 41.2938%; height: 576px;\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 24.9665%; text-align: center; height: 18px;\"><strong>Pieza</strong></td>\n<td style=\"width: 16.3264%; text-align: center; height: 18px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 522px;\">\n<td style=\"width: 24.9665%; height: 522px;\">\n<p style=\"text-align: center;\"><strong>Bahía electrónica</strong></p>\n<p>Sirve para alojar el dispositivo lora y la electrónica asociada</p>\n</td>\n<td style=\"width: 16.3264%; height: 522px;\">\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/bahia.png\" alt=\"Bahía electrónica\" width=\"225\" height=\"400\" style=\"vertical-align: middle;\" /></p>\n</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 24.9665%; height: 18px;\">\n<p style=\"text-align: center;\"><strong>Fuselaje o tapas exteriores</strong></p>\n<p>Cerramiento perimetral del CANSAT</p>\n</td>\n<td style=\"width: 16.3264%; height: 18px;\">\n<p><img src=\"{{context_path}}/content/resources/fuselaje.png\" alt=\"Fuselaje\" width=\"424\" height=\"380\" style=\"vertical-align: middle;\" /></p>\n</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 24.9665%; height: 18px;\">\n<p style=\"text-align: center;\"><strong>Tapas superior e inferior</strong></p>\n</td>\n<td style=\"width: 16.3264%; height: 18px;\">\n<p><img src=\"{{context_path}}/content/resources/tapa1.png\" alt=\"tapa 1\" title=\"tapa 1\" width=\"307\" height=\"213\" /></p>\n<p><img src=\"{{context_path}}/content/resources/tapa2.png\" alt=\"tapa 2\" title=\"tapa 2\" width=\"307\" height=\"213\" /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>"}]]></jsonProperties>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpdorla2-zyojltjhv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La estructura 3D del emisor CANSAT (satélite) de la propuesta de democratizando Cansat, está basada en el diseño realizado por <em>David Morales Arellano</em> miembro del equipo <em>VegaSteam</em> del <em>IES Federico García Lorca de Churriana de la Vega</em> (<em>Granada</em>).</p>\n<p>Ha sido diseñada para un fácil ensamblaje y cambio de componentes electrónicos en su interior, y consta de tres partes bien diferenciadas:</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 41.2938%; height: 576px; float: left;\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 24.9665%; text-align: center; height: 18px;\"><strong>Pieza</strong></td>\n<td style=\"width: 16.3264%; text-align: center; height: 18px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 522px;\">\n<td style=\"width: 24.9665%; height: 522px;\">\n<p style=\"text-align: center;\"><strong>Bahía electrónica</strong></p>\n<p>Sirve para alojar el dispositivo lora y la electrónica asociada</p>\n</td>\n<td style=\"width: 16.3264%; height: 522px;\">\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/bahia.png\" alt=\"Bahía electrónica\" width=\"225\" height=\"400\" style=\"vertical-align: middle;\" /></p>\n</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 24.9665%; height: 18px;\">\n<p style=\"text-align: center;\"><strong>Fuselaje o tapas exteriores</strong></p>\n<p>Cerramiento perimetral del CANSAT</p>\n</td>\n<td style=\"width: 16.3264%; height: 18px;\">\n<p><img src=\"{{context_path}}/content/resources/fuselaje.png\" alt=\"Fuselaje\" width=\"424\" height=\"380\" style=\"vertical-align: middle;\" /></p>\n</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 24.9665%; height: 18px;\">\n<p style=\"text-align: center;\"><strong>Tapas superior e inferior</strong></p>\n</td>\n<td style=\"width: 16.3264%; height: 18px;\">\n<p><img src=\"{{context_path}}/content/resources/tapa1.png\" alt=\"tapa 1\" title=\"tapa 1\" width=\"307\" height=\"213\" /></p>\n<p><img src=\"{{context_path}}/content/resources/tapa2.png\" alt=\"tapa 2\" title=\"tapa 2\" width=\"307\" height=\"213\" /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -4722,10 +4728,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ov-czklplj6i</odePageId>
+      <odePageId>page-mq1483tr-nipfesidw</odePageId>
       <odeBlockId>block-mpdorla3-vk3lvs96g</odeBlockId>
       <blockName>STLs</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4751,7 +4757,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ov-czklplj6i</odePageId>
+          <odePageId>page-mq1483tr-nipfesidw</odePageId>
           <odeBlockId>block-mpdorla3-vk3lvs96g</odeBlockId>
           <odeIdeviceId>idevice-mpdorla3-2ywjoa259</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4778,8 +4784,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7ox-67eotyq9y</odePageId>
-  <odeParentPageId>page-mq13v7oo-jxhlhdyi2</odeParentPageId>
+  <odePageId>page-mq1483tv-rkg0fmjfv</odePageId>
+  <odeParentPageId>page-mq1483tk-2zgwhw16w</odeParentPageId>
   <pageName>Estructura 3D Club Robótica Granada</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -4814,10 +4820,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7ox-67eotyq9y</odePageId>
+      <odePageId>page-mq1483tv-rkg0fmjfv</odePageId>
       <odeBlockId>block-mpdorla3-0xbkbnhsx</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4843,11 +4849,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ox-67eotyq9y</odePageId>
+          <odePageId>page-mq1483tv-rkg0fmjfv</odePageId>
           <odeBlockId>block-mpdorla3-0xbkbnhsx</odeBlockId>
           <odeIdeviceId>idevice-mpdorla3-i83pj5gmu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado en el Club Robótica Granada con la herramienta Tinkercad. El diseño está pensado para dejar el mayor espacio interior posible alojando en su interior la placa ESP32 STEAMakers con los sensores y periféricos correspondientes.</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado en el Club Robótica Granada por <em>Pedro Ruiz</em> con la herramienta Tinkercad. El diseño está pensado para dejar el mayor espacio interior posible alojando en su interior la placa ESP32 STEAMakers con los sensores y periféricos correspondientes.</p>
 <table style="width: 68.915%;" border="1">
 <tbody>
 <tr>
@@ -4858,7 +4865,7 @@
 </tbody>
 </table>
 <p>Consta de los siguientes elementos:</p>
-<table style="width: 50.8427%; height: 342px;" border="1">
+<table border="1" class="exe-table" style="width: 50.8427%; height: 342px; float: left;">
 <tbody>
 <tr style="height: 25px;">
 <td style="width: 19.6051%; text-align: center; height: 25px;"><strong>Pieza</strong></td>
@@ -4895,8 +4902,9 @@
 </tr>
 </tbody>
 </table>
-<p></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado en el Club Robótica Granada con la herramienta Tinkercad. El diseño está pensado para dejar el mayor espacio interior posible alojando en su interior la placa ESP32 STEAMakers con los sensores y periféricos correspondientes.</p>\n<table style=\"width: 68.915%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.8416%; border-style: none;\"><img src=\"{{context_path}}/content/resources/estructura_conjunto_montado.png\" alt=\"estructura montada\" title=\"estructura montada\" width=\"300\" height=\"469\" /></td>\n<td style=\"width: 27.6189%; border-style: none;\"><img src=\"{{context_path}}/content/resources/estructura_conjunto.png\" alt=\"estructura conjunto\" title=\"estructura conjunto\" width=\"425\" height=\"300\" /></td>\n<td style=\"width: 20.4548%; border-style: none;\"><img src=\"{{context_path}}/content/resources/estructura_conjunto_montado_foto.jpg\" alt=\"estructura montada foto\" title=\"estructura montada foto\" width=\"300\" height=\"400\" /></td>\n</tr>\n</tbody>\n</table>\n<p>Consta de los siguientes elementos:</p>\n<table style=\"width: 50.8427%; height: 342px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 31.2393%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 287px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 287px;\">\n<p>Cuerpo</p>\n<p style=\"text-align: left;\"><span style=\"font-size: 10pt;\">Necesita además 4 tuercas M2.5 para embutir por calor y luego atornillar tapas</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 287px;\"><img src=\"{{context_path}}/content/resources/estructura_cuerpo.png\" alt=\"estructura cuerpo\" title=\"estructura cuerpo\" width=\"500\" height=\"281\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Bandeja electrónica</p>\n<p><span style=\"font-size: 10pt;\">Se introduce en el cuerpo a través de ranura longitudinal</span></p>\n<p><span style=\"font-size: 10pt;\">Necesita además de 3 tornillos M3x8 para fijación de ESP32</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 10px;\"><img src=\"{{context_path}}/content/resources/estructura_bandeja.png\" alt=\"estructura bandeja\" title=\"estructura bandeja\" width=\"500\" height=\"281\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa superior</p>\n<p style=\"text-align: left;\"><span style=\"font-size: 10pt;\">Necesita además de 2 tornillos M2.5x10 para fijación a cuerpo</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 10px;\"><img src=\"{{context_path}}/content/resources/estructura_tapa_superior.png\" alt=\"estructura tapa superior\" title=\"estructura tapa superior\" width=\"500\" height=\"281\" /></td>\n</tr>\n<tr style=\"height: 0px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa inferior</p>\n<p><span style=\"font-size: 10pt;\">Necesita además de 2 tornillos M2.5x10 para fijación a cuerpo</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 10px;\"><img src=\"{{context_path}}/content/resources/estructura_tapa_inferior.png\" alt=\"estructura tapa inferior\" title=\"estructura tapa inferior\" width=\"500\" height=\"281\" /></td>\n</tr>\n</tbody>\n</table>\n<p></p>"}]]></jsonProperties>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpdorla3-i83pj5gmu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este diseño 3D de cuerpo de CANSAT, ha sido diseñado en el Club Robótica Granada por <em>Pedro Ruiz</em> con la herramienta Tinkercad. El diseño está pensado para dejar el mayor espacio interior posible alojando en su interior la placa ESP32 STEAMakers con los sensores y periféricos correspondientes.</p>\n<table style=\"width: 68.915%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.8416%; border-style: none;\"><img src=\"{{context_path}}/content/resources/estructura_conjunto_montado.png\" alt=\"estructura montada\" title=\"estructura montada\" width=\"300\" height=\"469\" /></td>\n<td style=\"width: 27.6189%; border-style: none;\"><img src=\"{{context_path}}/content/resources/estructura_conjunto.png\" alt=\"estructura conjunto\" title=\"estructura conjunto\" width=\"425\" height=\"300\" /></td>\n<td style=\"width: 20.4548%; border-style: none;\"><img src=\"{{context_path}}/content/resources/estructura_conjunto_montado_foto.jpg\" alt=\"estructura montada foto\" title=\"estructura montada foto\" width=\"300\" height=\"400\" /></td>\n</tr>\n</tbody>\n</table>\n<p>Consta de los siguientes elementos:</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 50.8427%; height: 342px; float: left;\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 31.2393%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 287px;\">\n<td style=\"width: 19.6051%; text-align: center; height: 287px;\">\n<p>Cuerpo</p>\n<p style=\"text-align: left;\"><span style=\"font-size: 10pt;\">Necesita además 4 tuercas M2.5 para embutir por calor y luego atornillar tapas</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 287px;\"><img src=\"{{context_path}}/content/resources/estructura_cuerpo.png\" alt=\"estructura cuerpo\" title=\"estructura cuerpo\" width=\"500\" height=\"281\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Bandeja electrónica</p>\n<p><span style=\"font-size: 10pt;\">Se introduce en el cuerpo a través de ranura longitudinal</span></p>\n<p><span style=\"font-size: 10pt;\">Necesita además de 3 tornillos M3x8 para fijación de ESP32</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 10px;\"><img src=\"{{context_path}}/content/resources/estructura_bandeja.png\" alt=\"estructura bandeja\" title=\"estructura bandeja\" width=\"500\" height=\"281\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa superior</p>\n<p style=\"text-align: left;\"><span style=\"font-size: 10pt;\">Necesita además de 2 tornillos M2.5x10 para fijación a cuerpo</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 10px;\"><img src=\"{{context_path}}/content/resources/estructura_tapa_superior.png\" alt=\"estructura tapa superior\" title=\"estructura tapa superior\" width=\"500\" height=\"281\" /></td>\n</tr>\n<tr style=\"height: 0px;\">\n<td style=\"width: 19.6051%; height: 10px;\">\n<p style=\"text-align: center;\">Tapa inferior</p>\n<p><span style=\"font-size: 10pt;\">Necesita además de 2 tornillos M2.5x10 para fijación a cuerpo</span></p>\n</td>\n<td style=\"width: 31.2393%; height: 10px;\"><img src=\"{{context_path}}/content/resources/estructura_tapa_inferior.png\" alt=\"estructura tapa inferior\" title=\"estructura tapa inferior\" width=\"500\" height=\"281\" /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -4916,10 +4924,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ox-67eotyq9y</odePageId>
+      <odePageId>page-mq1483tv-rkg0fmjfv</odePageId>
       <odeBlockId>block-mpdorla3-i8jjha0ao</odeBlockId>
       <blockName>Ficheros STL</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -4945,7 +4953,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ox-67eotyq9y</odePageId>
+          <odePageId>page-mq1483tv-rkg0fmjfv</odePageId>
           <odeBlockId>block-mpdorla3-i8jjha0ao</odeBlockId>
           <odeIdeviceId>idevice-mpdorla3-bj8iwhp4p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -4972,8 +4980,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
-  <odeParentPageId>page-mq13v7oo-jxhlhdyi2</odeParentPageId>
+  <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
+  <odeParentPageId>page-mq1483tk-2zgwhw16w</odeParentPageId>
   <pageName>Estructura 3D Receptor</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -5008,10 +5016,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
+      <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
       <odeBlockId>block-mpdorla4-dija3frvu</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5037,12 +5045,13 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
+          <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
           <odeBlockId>block-mpdorla4-dija3frvu</odeBlockId>
           <odeIdeviceId>idevice-mpdorla4-pqxju9ln7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Este diseño ha sido realizado por el usuario de printables <a href="https://www.printables.com/@opcion3d_337997" target="_blank" rel="noopener">opcion3d</a>.</p>
-<table border="1" style="height: 231px; width: 35.008%; float: left;" class="gallery">
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este diseño ha sido realizado por el usuario de printables <a href="https://www.printables.com/@opcion3d_337997" target="_blank" rel="noopener">opcion3d</a>.</p>
+<table border="1" class="exe-table" style="width: 35.008%; height: 231px; float: left;">
 <tbody>
 <tr style="height: 25px;">
 <td style="width: 10.6568%; text-align: center; height: 25px;"><strong>Pieza</strong></td>
@@ -5073,8 +5082,9 @@
 <td style="width: 24.3521%; height: 10px;"><img src="{{context_path}}/content/resources/Suport_powerbank_innova.png" alt="soporte powerbank innova" title="soporte powerbank innova" width="150" height="158" style="display: block; margin-left: auto; margin-right: auto;" /></td>
 </tr>
 </tbody>
-</table>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>Este diseño ha sido realizado por el usuario de printables <a href=\"https://www.printables.com/@opcion3d_337997\" target=\"_blank\" rel=\"noopener\">opcion3d</a>.</p>\n<table border=\"1\" style=\"height: 231px; width: 35.008%; float: left;\" class=\"gallery\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 10.6568%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 24.3521%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 156px;\">\n<td style=\"width: 10.6568%; text-align: center; height: 156px;\">Caja</td>\n<td style=\"width: 24.3521%; height: 156px;\"><img src=\"{{context_path}}/content/resources/Capsa_receptor.png\" alt=\"caja receptor\" title=\"caja receptor\" width=\"150\" height=\"156\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Tapa</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Tapa_receptor.png\" alt=\"tapa receptor\" title=\"tapa receptor\" width=\"150\" height=\"159\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de sensores</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_sensors.png\" alt=\"soporte de sensores\" title=\"soporte de sensores\" width=\"150\" height=\"284\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de antena</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_antena.png\" alt=\"soporte de antena\" title=\"soporte de antena\" width=\"150\" height=\"82\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de powerbank cuadrada</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_powerbank_quadrada.png\" alt=\"soporte powerbank cuadrada\" title=\"soporte powerbank cuadrada\" width=\"150\" height=\"151\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de powerbank innovadidactic</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_powerbank_innova.png\" alt=\"soporte powerbank innova\" title=\"soporte powerbank innova\" width=\"150\" height=\"158\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpdorla4-pqxju9ln7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este diseño ha sido realizado por el usuario de printables <a href=\"https://www.printables.com/@opcion3d_337997\" target=\"_blank\" rel=\"noopener\">opcion3d</a>.</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 35.008%; height: 231px; float: left;\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 10.6568%; text-align: center; height: 25px;\"><strong>Pieza</strong></td>\n<td style=\"width: 24.3521%; text-align: center; height: 25px;\"><strong>Imagen</strong></td>\n</tr>\n<tr style=\"height: 156px;\">\n<td style=\"width: 10.6568%; text-align: center; height: 156px;\">Caja</td>\n<td style=\"width: 24.3521%; height: 156px;\"><img src=\"{{context_path}}/content/resources/Capsa_receptor.png\" alt=\"caja receptor\" title=\"caja receptor\" width=\"150\" height=\"156\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Tapa</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Tapa_receptor.png\" alt=\"tapa receptor\" title=\"tapa receptor\" width=\"150\" height=\"159\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de sensores</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_sensors.png\" alt=\"soporte de sensores\" title=\"soporte de sensores\" width=\"150\" height=\"284\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de antena</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_antena.png\" alt=\"soporte de antena\" title=\"soporte de antena\" width=\"150\" height=\"82\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de powerbank cuadrada</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_powerbank_quadrada.png\" alt=\"soporte powerbank cuadrada\" title=\"soporte powerbank cuadrada\" width=\"150\" height=\"151\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 10.6568%; height: 10px; text-align: center;\">Soporte de powerbank innovadidactic</td>\n<td style=\"width: 24.3521%; height: 10px;\"><img src=\"{{context_path}}/content/resources/Suport_powerbank_innova.png\" alt=\"soporte powerbank innova\" title=\"soporte powerbank innova\" width=\"150\" height=\"158\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -5094,7 +5104,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
+      <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
       <odeBlockId>block-mpdorla4-s6a7akao1</odeBlockId>
       <blockName>Receptor</blockName>
       <iconName>gallery</iconName>
@@ -5123,7 +5133,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
+          <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
           <odeBlockId>block-mpdorla4-s6a7akao1</odeBlockId>
           <odeIdeviceId>idevice-mpdorla4-vbnfnkuu0</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -5148,10 +5158,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
+      <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
       <odeBlockId>block-mpdorla5-a3jkevms2</odeBlockId>
       <blockName>Ficheros STLs</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5177,7 +5187,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7oz-7difdtpqa</odePageId>
+          <odePageId>page-mq1483tz-rlqiek3hg</odePageId>
           <odeBlockId>block-mpdorla5-a3jkevms2</odeBlockId>
           <odeIdeviceId>idevice-mpdorla5-1vynq6juw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5204,7 +5214,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7p1-sdybrthwv</odePageId>
+  <odePageId>page-mq1483u6-ztibi8m74</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Paracaidas</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -5240,10 +5250,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7p1-sdybrthwv</odePageId>
+      <odePageId>page-mq1483u6-ztibi8m74</odePageId>
       <odeBlockId>block-mpdorla5-3hmokma7h</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5269,7 +5279,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p1-sdybrthwv</odePageId>
+          <odePageId>page-mq1483u6-ztibi8m74</odePageId>
           <odeBlockId>block-mpdorla5-3hmokma7h</odeBlockId>
           <odeIdeviceId>idevice-mpdorla5-slaphkam7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5297,8 +5307,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
-  <odeParentPageId>page-mq13v7p1-sdybrthwv</odeParentPageId>
+  <odePageId>page-mq1483uc-se67tqha3</odePageId>
+  <odeParentPageId>page-mq1483u6-ztibi8m74</odeParentPageId>
   <pageName>Calculo Radio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -5333,10 +5343,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
+      <odePageId>page-mq1483uc-se67tqha3</odePageId>
       <odeBlockId>block-mpdorla5-bmrlgf97x</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5362,7 +5372,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
+          <odePageId>page-mq1483uc-se67tqha3</odePageId>
           <odeBlockId>block-mpdorla5-bmrlgf97x</odeBlockId>
           <odeIdeviceId>idevice-mpdorla5-6ha3brgb1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5400,7 +5410,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
+      <odePageId>page-mq1483uc-se67tqha3</odePageId>
       <odeBlockId>block-mpdorla5-t21unichw</odeBlockId>
       <blockName>Tarea: Calcula el radio de tu paracaídas</blockName>
       <iconName>activity</iconName>
@@ -5429,7 +5439,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
+          <odePageId>page-mq1483uc-se67tqha3</odePageId>
           <odeBlockId>block-mpdorla5-t21unichw</odeBlockId>
           <odeIdeviceId>idevice-mpdorla5-8o3la02x1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5454,10 +5464,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
+      <odePageId>page-mq1483uc-se67tqha3</odePageId>
       <odeBlockId>block-mpdorla5-65jb2spmd</odeBlockId>
       <blockName>Calculador web de diámetro</blockName>
-      <iconName></iconName>
+      <iconName>diary_alt</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5483,7 +5493,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p2-mmlzy30do</odePageId>
+          <odePageId>page-mq1483uc-se67tqha3</odePageId>
           <odeBlockId>block-mpdorla5-65jb2spmd</odeBlockId>
           <odeIdeviceId>idevice-mpdorla5-rowc5wa5k</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5510,8 +5520,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
-  <odeParentPageId>page-mq13v7p1-sdybrthwv</odeParentPageId>
+  <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
+  <odeParentPageId>page-mq1483u6-ztibi8m74</odeParentPageId>
   <pageName>Trazado de gores (piezas)</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -5546,10 +5556,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
-      <odeBlockId>block-mpdorla5-a0zrfs79v</odeBlockId>
-      <blockName></blockName>
-      <iconName></iconName>
+      <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
+      <odeBlockId>block-mpdorla6-sywqd1kdv</odeBlockId>
+      <blockName>A través de web</blockName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5575,13 +5585,13 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
-          <odeBlockId>block-mpdorla5-a0zrfs79v</odeBlockId>
-          <odeIdeviceId>idevice-mpdorla5-q14wobcjf</odeIdeviceId>
+          <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
+          <odeBlockId>block-mpdorla6-sywqd1kdv</odeBlockId>
+          <odeIdeviceId>idevice-mpdorla6-orpravdfp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
+          <htmlView><![CDATA[<p>Esta web (<a href="http://scottbryce.com/parachute/spherical_parachute.html" target="_blank" rel="noopener">http://scottbryce.com/parachute/spherical_parachute.html</a>), indicándole datos, nos da un archivo gráfico para imprimir y recortar en papel los gores. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta web (<a href=\"http://scottbryce.com/parachute/spherical_parachute.html\" target=\"_blank\" rel=\"noopener\">http://scottbryce.com/parachute/spherical_parachute.html</a>), indicándole datos, nos da un archivo gráfico para imprimir y recortar en papel los gores. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
               <key>visibility</key>
@@ -5600,10 +5610,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
+      <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
       <odeBlockId>block-mpdorla5-2n63vyu46</odeBlockId>
       <blockName>Mediante hoja de cálculo</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5629,7 +5639,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
+          <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
           <odeBlockId>block-mpdorla5-2n63vyu46</odeBlockId>
           <odeIdeviceId>idevice-mpdorla5-v7nd53reo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5664,10 +5674,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
+      <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
       <odeBlockId>block-mpdorla6-yulli7ggs</odeBlockId>
       <blockName>Hoja de cálculo</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5693,7 +5703,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
+          <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
           <odeBlockId>block-mpdorla6-yulli7ggs</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-c3ngcur69</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5718,10 +5728,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
-      <odeBlockId>block-mpdorla6-sywqd1kdv</odeBlockId>
-      <blockName>A través de web</blockName>
-      <iconName></iconName>
+      <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
+      <odeBlockId>block-mpdorla6-gwxt6pjbc</odeBlockId>
+      <blockName>Otras consideraciones</blockName>
+      <iconName>book</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5747,61 +5757,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
-          <odeBlockId>block-mpdorla6-sywqd1kdv</odeBlockId>
-          <odeIdeviceId>idevice-mpdorla6-orpravdfp</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Esta web (<a href="http://scottbryce.com/parachute/spherical_parachute.html" target="_blank" rel="noopener">http://scottbryce.com/parachute/spherical_parachute.html</a>), indicándole datos, nos da un archivo gráfico para imprimir y recortar en papel los gores. </p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta web (<a href=\"http://scottbryce.com/parachute/spherical_parachute.html\" target=\"_blank\" rel=\"noopener\">http://scottbryce.com/parachute/spherical_parachute.html</a>), indicándole datos, nos da un archivo gráfico para imprimir y recortar en papel los gores. </p>"}]]></jsonProperties>
-          <odeComponentsOrder>3</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
-      <odeBlockId>block-mpdorla6-gwxt6pjbc</odeBlockId>
-      <blockName>Otras consideraciones</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>4</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mq13v7p5-xb2u261kr</odePageId>
+          <odePageId>page-mq1483uh-e3jy2o6mx</odePageId>
           <odeBlockId>block-mpdorla6-gwxt6pjbc</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-5v5xe0gad</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5846,7 +5802,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pa-ncapf7il7</odePageId>
+  <odePageId>page-mq1483um-p82ycl91g</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Panel entrenador Cansat Express</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -5882,10 +5838,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pa-ncapf7il7</odePageId>
+      <odePageId>page-mq1483um-p82ycl91g</odePageId>
       <odeBlockId>block-mpdorla6-y71l7dsjh</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5911,7 +5867,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pa-ncapf7il7</odePageId>
+          <odePageId>page-mq1483um-p82ycl91g</odePageId>
           <odeBlockId>block-mpdorla6-y71l7dsjh</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-v4dhas35w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5939,10 +5895,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7pa-ncapf7il7</odePageId>
+      <odePageId>page-mq1483um-p82ycl91g</odePageId>
       <odeBlockId>block-mpdorla6-cs3ze8rw5</odeBlockId>
       <blockName>STLs Cansat Express</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -5968,7 +5924,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pa-ncapf7il7</odePageId>
+          <odePageId>page-mq1483um-p82ycl91g</odePageId>
           <odeBlockId>block-mpdorla6-cs3ze8rw5</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-gwov2zn83</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -5995,7 +5951,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+  <odePageId>page-mq1483ur-vohjzwir2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tratamiento y análisis de datos</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -6031,10 +5987,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+      <odePageId>page-mq1483ur-vohjzwir2</odePageId>
       <odeBlockId>block-mpdorla6-40ggrah1s</odeBlockId>
       <blockName>En desarrollo</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6060,7 +6016,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+          <odePageId>page-mq1483ur-vohjzwir2</odePageId>
           <odeBlockId>block-mpdorla6-40ggrah1s</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-qf9yosvxn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6087,10 +6043,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+      <odePageId>page-mq1483ur-vohjzwir2</odePageId>
       <odeBlockId>block-mpdorla6-rprofjgp7</odeBlockId>
       <blockName>Datos Stellar Foquis</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6116,7 +6072,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+          <odePageId>page-mq1483ur-vohjzwir2</odePageId>
           <odeBlockId>block-mpdorla6-rprofjgp7</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-okmn8sbwj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6141,10 +6097,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+      <odePageId>page-mq1483ur-vohjzwir2</odePageId>
       <odeBlockId>block-mpdorla6-wkbh7s52d</odeBlockId>
       <blockName>Datos torre Parque de las Ciencias</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6170,7 +6126,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pc-zt669yoop</odePageId>
+          <odePageId>page-mq1483ur-vohjzwir2</odePageId>
           <odeBlockId>block-mpdorla6-wkbh7s52d</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-2wxs7zse4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6197,7 +6153,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pe-zt6xpsw1i</odePageId>
+  <odePageId>page-mq1483uu-b1b936hwu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Más sobre proyecto CANSAT</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -6233,10 +6189,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pe-zt6xpsw1i</odePageId>
+      <odePageId>page-mq1483uu-b1b936hwu</odePageId>
       <odeBlockId>block-mpdorla6-u28r79q5e</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>diary_alt</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6262,7 +6218,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pe-zt6xpsw1i</odePageId>
+          <odePageId>page-mq1483uu-b1b936hwu</odePageId>
           <odeBlockId>block-mpdorla6-u28r79q5e</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-5r0ziuvsv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6295,7 +6251,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pf-dpxdpir4y</odePageId>
+  <odePageId>page-mq1483uv-5i940whvf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -6331,10 +6287,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pf-dpxdpir4y</odePageId>
+      <odePageId>page-mq1483uv-5i940whvf</odePageId>
       <odeBlockId>block-mpdorla6-8zr46gcfq</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>diary</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6360,7 +6316,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pf-dpxdpir4y</odePageId>
+          <odePageId>page-mq1483uv-5i940whvf</odePageId>
           <odeBlockId>block-mpdorla6-8zr46gcfq</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-ynu0bhm4q</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6393,8 +6349,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pg-0iunojk5g</odePageId>
-  <odeParentPageId>page-mq13v7pf-dpxdpir4y</odeParentPageId>
+  <odePageId>page-mq1483uw-1owjhi4bt</odePageId>
+  <odeParentPageId>page-mq1483uv-5i940whvf</odeParentPageId>
   <pageName>Unidad didáctica</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -6429,10 +6385,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pg-0iunojk5g</odePageId>
+      <odePageId>page-mq1483uw-1owjhi4bt</odePageId>
       <odeBlockId>block-mpdorla6-fh37gfd7c</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>diary</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6458,7 +6414,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pg-0iunojk5g</odePageId>
+          <odePageId>page-mq1483uw-1owjhi4bt</odePageId>
           <odeBlockId>block-mpdorla6-fh37gfd7c</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-q4aep5e4b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6485,8 +6441,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pi-blzvnr3ye</odePageId>
-  <odeParentPageId>page-mq13v7pf-dpxdpir4y</odeParentPageId>
+  <odePageId>page-mq1483uy-j3atbhpzw</odePageId>
+  <odeParentPageId>page-mq1483uv-5i940whvf</odeParentPageId>
   <pageName>Tareas y criterios de evaluación</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -6521,10 +6477,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pi-blzvnr3ye</odePageId>
+      <odePageId>page-mq1483uy-j3atbhpzw</odePageId>
       <odeBlockId>block-mpdorla6-z1yubhylk</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>diary</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6550,7 +6506,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pi-blzvnr3ye</odePageId>
+          <odePageId>page-mq1483uy-j3atbhpzw</odePageId>
           <odeBlockId>block-mpdorla6-z1yubhylk</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-x8ukj5pvd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6577,8 +6533,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pj-52o028xrw</odePageId>
-  <odeParentPageId>page-mq13v7pf-dpxdpir4y</odeParentPageId>
+  <odePageId>page-mq1483uz-zduwj90xn</odePageId>
+  <odeParentPageId>page-mq1483uv-5i940whvf</odeParentPageId>
   <pageName>Temporalización de tareas</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -6613,10 +6569,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pj-52o028xrw</odePageId>
+      <odePageId>page-mq1483uz-zduwj90xn</odePageId>
       <odeBlockId>block-mpdorla6-6h2vcplgz</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>diary</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6642,7 +6598,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pj-52o028xrw</odePageId>
+          <odePageId>page-mq1483uz-zduwj90xn</odePageId>
           <odeBlockId>block-mpdorla6-6h2vcplgz</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-gtv1ylubf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6669,8 +6625,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pk-i5sru7k97</odePageId>
-  <odeParentPageId>page-mq13v7pf-dpxdpir4y</odeParentPageId>
+  <odePageId>page-mq1483v1-eufo0cahx</odePageId>
+  <odeParentPageId>page-mq1483uv-5i940whvf</odeParentPageId>
   <pageName>Intrumentos de evaluación</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -6705,10 +6661,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pk-i5sru7k97</odePageId>
+      <odePageId>page-mq1483v1-eufo0cahx</odePageId>
       <odeBlockId>block-mpdorla6-oiehkel0b</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>diary</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6734,7 +6690,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pk-i5sru7k97</odePageId>
+          <odePageId>page-mq1483v1-eufo0cahx</odePageId>
           <odeBlockId>block-mpdorla6-oiehkel0b</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-mvnhlhx37</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6761,7 +6717,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pn-yxqbraa7g</odePageId>
+  <odePageId>page-mq1483v4-5udkr9xz8</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Fotos y Vídeos del Concurso</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -6797,7 +6753,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pn-yxqbraa7g</odePageId>
+      <odePageId>page-mq1483v4-5udkr9xz8</odePageId>
       <odeBlockId>block-mpdorla6-42m7vi4l3</odeBlockId>
       <blockName>Galería</blockName>
       <iconName>gallery</iconName>
@@ -6826,7 +6782,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pn-yxqbraa7g</odePageId>
+          <odePageId>page-mq1483v4-5udkr9xz8</odePageId>
           <odeBlockId>block-mpdorla6-42m7vi4l3</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-4feuxx5v6</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -6851,10 +6807,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7pn-yxqbraa7g</odePageId>
+      <odePageId>page-mq1483v4-5udkr9xz8</odePageId>
       <odeBlockId>block-mpdorla6-zm778d1ds</odeBlockId>
       <blockName>Vídeo</blockName>
-      <iconName></iconName>
+      <iconName>video</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6880,7 +6836,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pn-yxqbraa7g</odePageId>
+          <odePageId>page-mq1483v4-5udkr9xz8</odePageId>
           <odeBlockId>block-mpdorla6-zm778d1ds</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-a9vzzzu0a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -6908,7 +6864,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7pr-ffc6edhmq</odePageId>
+  <odePageId>page-mq1483v7-k6qxtntah</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Fuentes</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -6944,10 +6900,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7pr-ffc6edhmq</odePageId>
+      <odePageId>page-mq1483v7-k6qxtntah</odePageId>
       <odeBlockId>block-mpdorla6-565z6z1rc</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -6973,7 +6929,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7pr-ffc6edhmq</odePageId>
+          <odePageId>page-mq1483v7-k6qxtntah</odePageId>
           <odeBlockId>block-mpdorla6-565z6z1rc</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-7bjpbbmi9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -7032,7 +6988,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
+  <odePageId>page-mq1483v9-pp7gv4ngm</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -7068,10 +7024,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
+      <odePageId>page-mq1483v9-pp7gv4ngm</odePageId>
       <odeBlockId>block-mpdorla6-f44bn1keg</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -7097,7 +7053,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
+          <odePageId>page-mq1483v9-pp7gv4ngm</odePageId>
           <odeBlockId>block-mpdorla6-f44bn1keg</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-6a4uqjlkh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -7133,10 +7089,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
+      <odePageId>page-mq1483v9-pp7gv4ngm</odePageId>
       <odeBlockId>block-mpdorla6-t267ml533</odeBlockId>
       <blockName>Cartel Democratizando CANSAT II</blockName>
-      <iconName>assignment</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -7162,7 +7118,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
+          <odePageId>page-mq1483v9-pp7gv4ngm</odePageId>
           <odeBlockId>block-mpdorla6-t267ml533</odeBlockId>
           <odeIdeviceId>idevice-mpdorla6-uzk336gqd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -7170,80 +7126,6 @@
 <p>Por: <em>Pablo Moraga</em></p><p><a href="{{context_path}}/content/resources/Cartel_DemocratizandoCansatII_ElRetorno.jpg" target="_blank" download="Cartel_DemocratizandoCansatII_ElRetorno.jpg">Cartel_DemocratizandoCansatII_ElRetorno.jpg</a></p>]]></htmlView>
           <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/Cartel_DemocratizandoCansatII_ElRetorno.jpg\" alt=\"Cartel\" title=\"Cartel\" width=\"283\" height=\"400\" /></p>\n<p>Por: <em>Pablo Moraga</em></p><p><a href=\"{{context_path}}/content/resources/Cartel_DemocratizandoCansatII_ElRetorno.jpg\" target=\"_blank\" download=\"Cartel_DemocratizandoCansatII_ElRetorno.jpg\">Cartel_DemocratizandoCansatII_ElRetorno.jpg</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
-      <odeBlockId>block-mpdorla6-wnn3u4b90</odeBlockId>
-      <blockName>Descargar archivo fuente</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mq13v7ps-mzqqarhxc</odePageId>
-          <odeBlockId>block-mpdorla6-wnn3u4b90</odeBlockId>
-          <odeIdeviceId>idevice-mpdorla6-c2oojovmn</odeIdeviceId>
-          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
-<tbody>
-<tr>
-<th>Título</th>
-<td>Democratizando CANSAT II. El Retorno</td>
-</tr>
-<tr>
-<th>Descripción</th>
-<td>Documentación que facilita el acceso a proyecto CANSAT</td>
-</tr>
-<tr>
-<th>Autoría</th>
-<td>Pedro Ruiz Fernández</td>
-</tr>
-<tr>
-<th>Licencia</th>
-<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
               <key>visibility</key>
